@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://duynlk.github.io/cafe-mua-dong/</loc>
-    <lastmod>2022-12-08T21:23:06+07:00</lastmod>
-  </url><url>
     <loc>https://duynlk.github.io/</loc>
-    <lastmod>2022-12-08T21:23:06+07:00</lastmod>
+    <lastmod>2022-12-14T21:44:51+07:00</lastmod>
   </url><url>
     <loc>https://duynlk.github.io/posts/</loc>
+    <lastmod>2022-12-14T21:44:51+07:00</lastmod>
+  </url><url>
+    <loc>https://duynlk.github.io/ve-que-noi/</loc>
+    <lastmod>2022-12-14T21:44:51+07:00</lastmod>
+  </url><url>
+    <loc>https://duynlk.github.io/cafe-mua-dong/</loc>
     <lastmod>2022-12-08T21:23:06+07:00</lastmod>
   </url><url>
     <loc>https://duynlk.github.io/thoi-the-la-thoi-nhe/</loc>
