@@ -1,248 +1,359 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <link rel="shortcut icon" href="https://duynlk.github.io/favicon.ico">
-    <link rel="alternate" type="application/rss+xml" href="https://duynlk.github.io/index.xml" title="DuyKa's Blog">
-    
-    <link rel="stylesheet" href="/css/style.min.css">
+<html lang="en" dir="auto">
 
-    <link rel="canonical" href="https://duynlk.github.io/" />
-    <title>DuyKa&#39;s Blog</title>
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>DuyKa&#39;s Blog</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="https://duynlk.github.io/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6a98292fb8fa8cf0f3ba4042d4b75515c04267550f3ad49ff6271b5af9562443.css" integrity="sha256-apgpL7j6jPDzukBC1LdVFcBCZ1UPOtSf9icbWvlWJEM=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://duynlk.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://duynlk.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://duynlk.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://duynlk.github.io/apple-touch-icon.png">
+<link rel="mask-icon" href="https://duynlk.github.io/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://duynlk.github.io/index.xml">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="DuyKa&#39;s Blog" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://duynlk.github.io/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="DuyKa&#39;s Blog"/>
+<meta name="twitter:description" content=""/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "DuyKa's Blog",
+  "url": "https://duynlk.github.io/",
+  "description": "",
+  "thumbnailUrl": "https://duynlk.github.io/favicon.ico",
+  "sameAs": [
+      
+  ]
+}
+</script>
 </head>
-<body><header id="banner">
-    <h2><a href="https://duynlk.github.io/">DuyKa&#39;s Blog</a></h2>
-    <nav>
-        <ul>
-            
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://duynlk.github.io/" accesskey="h" title="DuyKa&#39;s Blog (Alt + H)">DuyKa&#39;s Blog</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
         </ul>
     </nav>
 </header>
-<main id="content">
-<h3>Posts</h3>
-<ul id="posts">
-    <li>
-    <a href="https://duynlk.github.io/nhung-nam-mo-cua-chung-ta/">
-        Những nấm mồ của chúng ta
-        <small><time>Feb 20, 2023</time></small>
+<main class="main"> 
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Những nấm mồ của chúng ta
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tôi đi qua
+những nấm mồ vừa chôn
+không có xác thân
+chỉ có nỗi buồn
+những tấm bia đề tên chung một chủ
+những đám tang không cần ai đến dự
+những lối mòn
+đã nổi rêu xanh ..
+Sau một ngày dài ta trở về căn phòng
+cởi đôi giày da làm chân anh hầm, rộp
+em lau màu son, hong khô làn tóc ướt
+bỏ mặc đời trôi...</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-02-20 21:50:10 +0700 +07'>February 20, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Những nấm mồ của chúng ta" href="https://duynlk.github.io/posts/nhung-nam-mo-cua-chung-ta/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Cho tôi về
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Bài tham dự minigame “Không Chơi Cũng Phải Chơi” do group Facebook Những Ngón Tay Đan tổ chức. Chủ đề: Mùa Gió Cũ.
+* * *
+Cho tôi về dưới hàng dừa xanh mát
+thuở ngoại tôi còn buôn bán chợ xa
+cho tôi về với những điều đơn giản
+như lời ru mẹ hát dưới hiên nhà
+Như câu ca giữa đêm rằm phá cỗ
+hay giao thừa với bánh mứt, nhang thơm...</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-02-18 20:51:54 +0700 +07'>February 18, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Cho tôi về" href="https://duynlk.github.io/posts/cho-toi-ve/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Hãy yêu mình trước tiên
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Sau những lần đổ vỡ
+ta chẳng còn niềm tin
+kẻ thương mình, mình phụ
+người mình thương, phụ mình
+Muốn làm thân đá cuội
+chẳng ly biệt, đoạn trường
+muốn làm thân cây cỏ
+chẳng ưu phiền, vấn vương
+Đi qua bao đớn đau
+chợt thấy mình tội nghiệp
+nhưng vẫn có trong nhau
+một tình yêu bất diệt
+Cảm ơn người đã đến
+cho ta biết nắng hồng...</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-02-13 22:16:39 +0700 +07'>February 13, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Hãy yêu mình trước tiên" href="https://duynlk.github.io/posts/hay-yeu-minh-truoc-tien/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Người giữa người với nhau 2
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Bài tham dự cuộc thi sáng tác thơ “Áng thơ trên những cánh diều” trong khuôn khổ liên hoan sách Read&amp;Rise Bookfest 2023 lần đầu tiên tại Việt Nam.
+* * *
+Dù tóc dài hay ngắn
+dù da trắng hay đen
+dù béo, gầy, xấu, đẹp
+thì em vẫn là em
+Cùng biết cười, biết khóc
+cùng biết nghĩ, biết đau
+ai ơi đừng hằn học
+người giữa người với nhau ....</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-02-11 22:26:39 +0700 +07'>February 11, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Người giữa người với nhau 2" href="https://duynlk.github.io/posts/nguoi-giua-nguoi-voi-nhau-2/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Bài thơ về màu xanh
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Hôm nay tới phiên anh trực
+rác vớt lên từ lòng cống đầy xe
+những xác thối, những kim tiêm
+những xương cá, xương heo, những tàn thuốc, cọng tăm
+những thứ bỏ đi không ai còn dám cầm
+nước ăn cháy da anh bỏng rát
+anh bảo tôi nghề này nó bạc
+không phải vì tiền đâu em
+anh đau lòng khi nhìn dòng nước đen
+chảy ra dòng sông quê mẹ ....</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-02-05 19:42:37 +0700 +07'>February 5, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Bài thơ về màu xanh" href="https://duynlk.github.io/posts/bai-tho-ve-mau-xanh/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Bệnh nghĩ nhiều
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Mấy rày đau chẳng khỏi
+thuốc uống chỉ cầm hơi
+cả thân người mệt mỏi
+viết vài câu lại lười
+Trong khi anh nằm đây
+hoa bên vườn vẫn nở
+nắng xuyên qua tàn cây
+chim bay về làm tổ
+xa đời thêm một ngày!
+Em có về ngang chợ
+mua dùm anh chút trà
+gió xuân ngoài bậu cửa
+đón đưa mùa đi qua ..
+Ta phải sống em ơi...</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-02-03 23:56:21 +0700 +07'>February 3, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Bệnh nghĩ nhiều" href="https://duynlk.github.io/posts/benh-nghi-nhieu/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Uống trà với bố
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Lâu rồi không ngồi uống trà với bố
+một năm khóc-cười, con lại về đây
+nhờ nương náu sau tháng ngày gian khổ
+nghe hương xuân rơi từ nhánh mai gầy
+Con đã đến nơi xứ người đất lạ
+lúc đói-no, khi hối hả-chần chừ
+và khi khóc chẳng cần ai bên cạnh
+đàn ông mình phải mạnh mẽ thế ư?
+Đời muốn ta làm cây tùng cây bách
+nước mắt không rơi mà chảy ngược dòng...</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-01-25 14:14:01 +0700 +07'>January 25, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Uống trà với bố" href="https://duynlk.github.io/posts/uong-tra-voi-bo/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="next" href="https://duynlk.github.io/page/2/">Next&nbsp;&nbsp;»
     </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/cho-toi-ve/">
-        Cho tôi về
-        <small><time>Feb 18, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/hay-yeu-minh-truoc-tien/">
-        Hãy yêu mình trước tiên
-        <small><time>Feb 13, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/nguoi-giua-nguoi-voi-nhau-2/">
-        Người giữa người với nhau 2
-        <small><time>Feb 11, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/bai-tho-ve-mau-xanh/">
-        Bài thơ về màu xanh
-        <small><time>Feb 5, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/benh-nghi-nhieu/">
-        Bệnh nghĩ nhiều
-        <small><time>Feb 3, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/uong-tra-voi-bo/">
-        Uống trà với bố
-        <small><time>Jan 25, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/van-la-em-thoi/">
-        Vẫn là em thôi
-        <small><time>Jan 18, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/ve-voi-me/">
-        Về với mẹ
-        <small><time>Jan 13, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/mot-ngay-mat-dien/">
-        Một ngày mất điện
-        <small><time>Jan 10, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/co-vay-co-tra/">
-        Có vay có trả
-        <small><time>Jan 8, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/tinh-am-duong/">
-        Tình âm dương
-        <small><time>Jan 6, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/me-la-mua-xuan/">
-        Mẹ là mùa xuân
-        <small><time>Jan 2, 2023</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/nguoi-lon-co-don/">
-        Người lớn cô đơn
-        <small><time>Dec 30, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/vo/">
-        Vỡ
-        <small><time>Dec 27, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/hanh-phuc-muon-mau/">
-        Hạnh phúc muôn màu
-        <small><time>Dec 25, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/ngoai-kia-mua-xuan-toi/">
-        Ngoài kia mùa xuân tới
-        <small><time>Dec 22, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/diep-khuc-ru-em/">
-        Điệp khúc ru em
-        <small><time>Dec 20, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/nguoi-giua-nguoi-voi-nhau/">
-        Người giữa người với nhau
-        <small><time>Dec 18, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/ve-que-noi/">
-        Về quê nội
-        <small><time>Dec 14, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/cafe-mua-dong/">
-        Cafe mùa đông
-        <small><time>Dec 8, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/thoi-the-la-thoi-nhe/">
-        Thôi thế là thôi nhé!
-        <small><time>Dec 4, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/tho-nay-con-tha-len-troi-ngoai-nghe/">
-        Thơ này con thả lên trời, Ngoại nghe!
-        <small><time>Dec 2, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/poetry-for-liv/">
-        Poetry for Liv.
-        <small><time>Nov 13, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/nhung-ngay-cuoi-nam/">
-        Những ngày cuối năm
-        <small><time>Nov 11, 2022</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/loi-thay/">
-        Lời Thầy
-        <small><time>Nov 24, 2021</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/doi-thay/">
-        Đổi thay
-        <small><time>Nov 2, 2021</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/noi-buon-covid/">
-        Nỗi buồn Covid
-        <small><time>Oct 30, 2021</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/cam-on-em/">
-        Cảm ơn em
-        <small><time>Oct 26, 2021</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/ngoi-nha-cu/">
-        Ngôi nhà cũ
-        <small><time>Oct 23, 2021</time></small>
-    </a>
-</li>
-
-    <li>
-    <a href="https://duynlk.github.io/nho-que/">
-        Nhớ quê
-        <small><time>Oct 23, 2021</time></small>
-    </a>
-</li>
-
-</ul>
-
-        </main><footer id="footer">
-    © 2021-2023 | nguyenlukhanhduy@gmail.com
+  </nav>
 </footer>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2023 <a href="https://duynlk.github.io/">DuyKa&#39;s Blog</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
 </body>
+
 </html>

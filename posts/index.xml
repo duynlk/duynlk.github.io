@@ -1,1062 +1,615 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on DuyKa&#39;s Blog</title>
     <link>https://duynlk.github.io/posts/</link>
     <description>Recent content in Posts on DuyKa&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 21:50:10 +0700</lastBuildDate>
-    
-	<atom:link href="https://duynlk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
+    <lastBuildDate>Mon, 20 Feb 2023 21:50:10 +0700</lastBuildDate><atom:link href="https://duynlk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Những nấm mồ của chúng ta</title>
-      <link>https://duynlk.github.io/nhung-nam-mo-cua-chung-ta/</link>
+      <link>https://duynlk.github.io/posts/nhung-nam-mo-cua-chung-ta/</link>
       <pubDate>Mon, 20 Feb 2023 21:50:10 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/nhung-nam-mo-cua-chung-ta/</guid>
-      <description>&lt;p&gt;Tôi đi qua&lt;br&gt;
-những nấm mồ vừa chôn&lt;br&gt;
-không có xác thân&lt;br&gt;
-chỉ có nỗi buồn&lt;br&gt;
-những tấm bia đề tên chung một chủ&lt;br&gt;
-những đám tang không cần ai đến dự&lt;br&gt;
-những lối mòn&lt;br&gt;
-đã nổi rêu xanh ..&lt;/p&gt;
-&lt;p&gt;Sau một ngày dài ta trở về căn phòng&lt;br&gt;
-cởi đôi giày da làm chân anh hầm, rộp&lt;br&gt;
-em lau màu son, hong khô làn tóc ướt&lt;br&gt;
-bỏ mặc đời trôi&lt;br&gt;
-qua cánh cửa mùa xuân&lt;br&gt;
-ta vẫn là ta&lt;br&gt;
-không còn chức, còn danh&lt;br&gt;
-không địa vị, tùy tùng và quyền lực&lt;br&gt;
-gọi cho mẹ bảo rằng con rất mệt&lt;br&gt;
-có ai đánh đâu mà khóe mắt cay xè?&lt;/p&gt;
-&lt;p&gt;Không phải lúc nào cuộc đời cũng êm xuôi&lt;br&gt;
-môi nở nụ cười nhưng trong lòng giông tố&lt;br&gt;
-ta nói đang vui&lt;br&gt;
-nhưng thật là đang khổ&lt;br&gt;
-kẻ dối ta nhiều nhất lại là ta&lt;/p&gt;
-&lt;p&gt;Sáng rồi, dậy đi&lt;br&gt;
-những đứa trẻ mang hình hài người lớn&lt;br&gt;
-trách nhiệm đánh thức chúng ta chứ chẳng phải đồng hồ&lt;br&gt;
-mặc cho hôm qua nước mắt ướt đầm trên gối&lt;br&gt;
-thì sớm mai này vẫn phải tự lau khô&lt;/p&gt;
-&lt;p&gt;Sáng rồi, dậy đi&lt;br&gt;
-bao giờ ước mơ của ta là được lên vùng cao dạy học&lt;br&gt;
-là được đi theo những đoàn xe về dựng ấp, xây cầu&lt;br&gt;
-là được chăm sóc những người già neo đơn, bệnh tật&lt;br&gt;
-là được sống một ngày không cần hỏi: tiền đâu?&lt;/p&gt;
-&lt;p&gt;Có kết thúc&lt;br&gt;
-sẽ có có bắt đầu&lt;br&gt;
-cây vẫn xanh, và chim vẫn hót&lt;br&gt;
-anh chôn chuyện buồn bên dưới nấm mồ sâu&lt;br&gt;
-em giấu sau lưng những tháng ngày dại dột&lt;br&gt;
-tôi chỉ đi qua&lt;br&gt;
-rồi khẽ cúi chào ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2023.02.23&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/nhung-nam-mo-cua-chung-ta/</guid>
+      <description>Tôi đi qua
+những nấm mồ vừa chôn
+không có xác thân
+chỉ có nỗi buồn
+những tấm bia đề tên chung một chủ
+những đám tang không cần ai đến dự
+những lối mòn
+đã nổi rêu xanh ..
+Sau một ngày dài ta trở về căn phòng
+cởi đôi giày da làm chân anh hầm, rộp
+em lau màu son, hong khô làn tóc ướt
+bỏ mặc đời trôi</description>
     </item>
-    
-    
     
     <item>
       <title>Cho tôi về</title>
-      <link>https://duynlk.github.io/cho-toi-ve/</link>
+      <link>https://duynlk.github.io/posts/cho-toi-ve/</link>
       <pubDate>Sat, 18 Feb 2023 20:51:54 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/cho-toi-ve/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Bài tham dự minigame &amp;ldquo;Không Chơi Cũng Phải Chơi&amp;rdquo; do group Facebook Những Ngón Tay Đan tổ chức. Chủ đề: Mùa Gió Cũ.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Cho tôi về dưới hàng dừa xanh mát&lt;br&gt;
-thuở ngoại tôi còn buôn bán chợ xa&lt;br&gt;
-cho tôi về với những điều đơn giản&lt;br&gt;
-như lời ru mẹ hát dưới hiên nhà&lt;/p&gt;
-&lt;p&gt;Như câu ca giữa đêm rằm phá cỗ&lt;br&gt;
-hay giao thừa với bánh mứt, nhang thơm&lt;br&gt;
-tôi đã đếm biết bao mùa ngang phố&lt;br&gt;
-khi đường về ngày càng một xa hơn&lt;/p&gt;
-&lt;p&gt;Cho tôi đi trên cánh đồng mới gặt&lt;br&gt;
-thuở xây chòi, đắp đất, .. réo tên nhau&lt;br&gt;
-rồi ta bận chơi với đời tất bật:&lt;br&gt;
-- Trò trốn tìm?&lt;br&gt;
-- Chưa thể hẹn hôm sau.&lt;/p&gt;
-&lt;p&gt;Cho tôi sai những lần sai trót dại&lt;br&gt;
-ăn dăm roi, nghe rầy mắng, .. là xong&lt;br&gt;
-đời muôn lối, chuyện dùng dằng trái - phải&lt;br&gt;
-người vô tư .. còn ta thấy chạnh lòng&lt;/p&gt;
-&lt;p&gt;Cho tôi về như những người khách lạ&lt;br&gt;
-trong chiêm bao, hay ngọn gió mơ màng&lt;br&gt;
-đôi lúc muốn, nhưng thật lòng .. khó quá&lt;br&gt;
-đố ai ngừng lại được thời gian!&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2023.02.18&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/cho-toi-ve/</guid>
+      <description>Bài tham dự minigame &amp;ldquo;Không Chơi Cũng Phải Chơi&amp;rdquo; do group Facebook Những Ngón Tay Đan tổ chức. Chủ đề: Mùa Gió Cũ.
+* * *
+Cho tôi về dưới hàng dừa xanh mát
+thuở ngoại tôi còn buôn bán chợ xa
+cho tôi về với những điều đơn giản
+như lời ru mẹ hát dưới hiên nhà
+Như câu ca giữa đêm rằm phá cỗ
+hay giao thừa với bánh mứt, nhang thơm</description>
     </item>
-    
-    
     
     <item>
       <title>Hãy yêu mình trước tiên</title>
-      <link>https://duynlk.github.io/hay-yeu-minh-truoc-tien/</link>
+      <link>https://duynlk.github.io/posts/hay-yeu-minh-truoc-tien/</link>
       <pubDate>Mon, 13 Feb 2023 22:16:39 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/hay-yeu-minh-truoc-tien/</guid>
-      <description>&lt;p&gt;Sau những lần đổ vỡ&lt;br&gt;
-ta chẳng còn niềm tin&lt;br&gt;
-kẻ thương mình, mình phụ&lt;br&gt;
-người mình thương, phụ mình&lt;/p&gt;
-&lt;p&gt;Muốn làm thân đá cuội&lt;br&gt;
-chẳng ly biệt, đoạn trường&lt;br&gt;
-muốn làm thân cây cỏ&lt;br&gt;
-chẳng ưu phiền, vấn vương&lt;/p&gt;
-&lt;p&gt;Đi qua bao đớn đau&lt;br&gt;
-chợt thấy mình tội nghiệp&lt;br&gt;
-nhưng vẫn có trong nhau&lt;br&gt;
-một tình yêu bất diệt&lt;/p&gt;
-&lt;p&gt;Cảm ơn người đã đến&lt;br&gt;
-cho ta biết nắng hồng&lt;br&gt;
-cảm ơn người rời khỏi&lt;br&gt;
-để quen dần mưa, giông&lt;/p&gt;
-&lt;p&gt;Ngày mai rồi sẽ khác&lt;br&gt;
-ai ngờ được chữ duyên&lt;br&gt;
-mỉm cười và tự nhủ&lt;br&gt;
-hãy yêu mình trước tiên ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2023.02.13&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/hay-yeu-minh-truoc-tien/</guid>
+      <description>Sau những lần đổ vỡ
+ta chẳng còn niềm tin
+kẻ thương mình, mình phụ
+người mình thương, phụ mình
+Muốn làm thân đá cuội
+chẳng ly biệt, đoạn trường
+muốn làm thân cây cỏ
+chẳng ưu phiền, vấn vương
+Đi qua bao đớn đau
+chợt thấy mình tội nghiệp
+nhưng vẫn có trong nhau
+một tình yêu bất diệt
+Cảm ơn người đã đến
+cho ta biết nắng hồng</description>
     </item>
-    
-    
     
     <item>
       <title>Người giữa người với nhau 2</title>
-      <link>https://duynlk.github.io/nguoi-giua-nguoi-voi-nhau-2/</link>
+      <link>https://duynlk.github.io/posts/nguoi-giua-nguoi-voi-nhau-2/</link>
       <pubDate>Sat, 11 Feb 2023 22:26:39 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/nguoi-giua-nguoi-voi-nhau-2/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Bài tham dự cuộc thi sáng tác thơ &amp;ldquo;Áng thơ trên những cánh diều&amp;rdquo; trong khuôn khổ liên hoan sách Read&amp;amp;Rise Bookfest 2023 lần đầu tiên tại Việt Nam.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Dù tóc dài hay ngắn&lt;br&gt;
-dù da trắng hay đen&lt;br&gt;
-dù béo, gầy, xấu, đẹp&lt;br&gt;
-thì em vẫn là em&lt;/p&gt;
-&lt;p&gt;Cùng biết cười, biết khóc&lt;br&gt;
-cùng biết nghĩ, biết đau&lt;br&gt;
-ai ơi đừng hằn học&lt;br&gt;
-người giữa người với nhau ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2023.02.10&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/nguoi-giua-nguoi-voi-nhau-2/</guid>
+      <description>Bài tham dự cuộc thi sáng tác thơ &amp;ldquo;Áng thơ trên những cánh diều&amp;rdquo; trong khuôn khổ liên hoan sách Read&amp;amp;Rise Bookfest 2023 lần đầu tiên tại Việt Nam.
+* * *
+Dù tóc dài hay ngắn
+dù da trắng hay đen
+dù béo, gầy, xấu, đẹp
+thì em vẫn là em
+Cùng biết cười, biết khóc
+cùng biết nghĩ, biết đau
+ai ơi đừng hằn học
+người giữa người với nhau .</description>
     </item>
-    
-    
     
     <item>
       <title>Bài thơ về màu xanh</title>
-      <link>https://duynlk.github.io/bai-tho-ve-mau-xanh/</link>
+      <link>https://duynlk.github.io/posts/bai-tho-ve-mau-xanh/</link>
       <pubDate>Sun, 05 Feb 2023 19:42:37 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/bai-tho-ve-mau-xanh/</guid>
-      <description>&lt;p&gt;Hôm nay tới phiên anh trực&lt;br&gt;
-rác vớt lên từ lòng cống đầy xe&lt;br&gt;
-những xác thối, những kim tiêm&lt;br&gt;
-những xương cá, xương heo, những tàn thuốc, cọng tăm&lt;br&gt;
-những thứ bỏ đi không ai còn dám cầm&lt;br&gt;
-nước ăn cháy da anh bỏng rát&lt;br&gt;
-anh bảo tôi nghề này nó bạc&lt;br&gt;
-không phải vì tiền đâu em&lt;br&gt;
-anh đau lòng khi nhìn dòng nước đen&lt;br&gt;
-chảy ra dòng sông quê mẹ ..&lt;/p&gt;
-&lt;p&gt;Dòng sông từ lâu không còn xanh&lt;br&gt;
-xanh như bài thơ ta viết mười năm trước&lt;br&gt;
-xanh như trời trưa ta nhảy ùm tắm được&lt;br&gt;
-xanh như tô canh từ thùng cá cha câu&lt;br&gt;
-xanh như ký ức thuở ông bà còn làm ruộng&lt;br&gt;
-dẫu không ưng&lt;br&gt;
-nhưng buộc phải nhún nhường&lt;br&gt;
-nhìn màu đen&lt;br&gt;
-hòa tan vào chính mình!&lt;/p&gt;
-&lt;p&gt;Sau này&lt;br&gt;
-ta dẫn lũ trẻ đi chơi&lt;br&gt;
-trên những dòng sông nhân tạo&lt;br&gt;
-bắt những con cua được người khác thả vào&lt;br&gt;
-cho một tuổi thơ biết lấm quần lấm áo&lt;br&gt;
-rồi chúng sẽ tìm thấy màu xanh&lt;br&gt;
-in trong sách vở của tiền nhân&lt;br&gt;
-đọc và hiểu&lt;br&gt;
-nhưng không ngửi được mùi cỏ lau ..&lt;/p&gt;
-&lt;p&gt;Ta uống cà phê trên dãy lầu cao&lt;br&gt;
-mẹ mua xốp về gầy lại khu vườn nhỏ&lt;br&gt;
-để lũ con biết rằng màu xanh còn đó&lt;br&gt;
-cọng cỏ chìa ra dưới nền mộ ông bà&lt;br&gt;
-em thấy rồi&lt;br&gt;
-ngày đá nở hoa!&lt;/p&gt;
-&lt;p&gt;Hãy giữ màu xanh trong mỗi chúng ta&lt;br&gt;
-dẫu cuộc sống còn nhiều điều vẩn đục&lt;br&gt;
-dẫu khi buồn một mình ta bật khóc&lt;br&gt;
-không ai lau dùm nước mắt thì thôi&lt;br&gt;
-ta vẫn cất cao câu hát làm người&lt;br&gt;
-vì giữa nền xanh kia&lt;br&gt;
-là mặt trời ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2023.02.05&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/bai-tho-ve-mau-xanh/</guid>
+      <description>Hôm nay tới phiên anh trực
+rác vớt lên từ lòng cống đầy xe
+những xác thối, những kim tiêm
+những xương cá, xương heo, những tàn thuốc, cọng tăm
+những thứ bỏ đi không ai còn dám cầm
+nước ăn cháy da anh bỏng rát
+anh bảo tôi nghề này nó bạc
+không phải vì tiền đâu em
+anh đau lòng khi nhìn dòng nước đen
+chảy ra dòng sông quê mẹ .</description>
     </item>
-    
-    
     
     <item>
       <title>Bệnh nghĩ nhiều</title>
-      <link>https://duynlk.github.io/benh-nghi-nhieu/</link>
+      <link>https://duynlk.github.io/posts/benh-nghi-nhieu/</link>
       <pubDate>Fri, 03 Feb 2023 23:56:21 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/benh-nghi-nhieu/</guid>
-      <description>&lt;p&gt;Mấy rày đau chẳng khỏi&lt;br&gt;
-thuốc uống chỉ cầm hơi&lt;br&gt;
-cả thân người mệt mỏi&lt;br&gt;
-viết vài câu lại lười&lt;/p&gt;
-&lt;p&gt;Trong khi anh nằm đây&lt;br&gt;
-hoa bên vườn vẫn nở&lt;br&gt;
-nắng xuyên qua tàn cây&lt;br&gt;
-chim bay về làm tổ&lt;br&gt;
-xa đời thêm một ngày!&lt;/p&gt;
-&lt;p&gt;Em có về ngang chợ&lt;br&gt;
-mua dùm anh chút trà&lt;br&gt;
-gió xuân ngoài bậu cửa&lt;br&gt;
-đón đưa mùa đi qua ..&lt;/p&gt;
-&lt;p&gt;Ta phải sống em ơi&lt;br&gt;
-dù đời lên xuống - kệ&lt;br&gt;
-dù người bạc như vôi&lt;br&gt;
-ta đâu cần phải thế?&lt;/p&gt;
-&lt;p&gt;Từng hơi thở của ta&lt;br&gt;
-hòa vào cùng trời đất&lt;br&gt;
-hãy mạnh dạn bước ra&lt;br&gt;
-căn phòng tăm tối, chật&lt;/p&gt;
-&lt;p&gt;Tâm hồn cần tắm gội&lt;br&gt;
-tội lỗi cần bao dung&lt;br&gt;
-trở về thân cát bụi&lt;br&gt;
-biết đau niềm đau chung ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2023.02.03&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/benh-nghi-nhieu/</guid>
+      <description>Mấy rày đau chẳng khỏi
+thuốc uống chỉ cầm hơi
+cả thân người mệt mỏi
+viết vài câu lại lười
+Trong khi anh nằm đây
+hoa bên vườn vẫn nở
+nắng xuyên qua tàn cây
+chim bay về làm tổ
+xa đời thêm một ngày!
+Em có về ngang chợ
+mua dùm anh chút trà
+gió xuân ngoài bậu cửa
+đón đưa mùa đi qua ..
+Ta phải sống em ơi</description>
     </item>
-    
-    
     
     <item>
       <title>Uống trà với bố</title>
-      <link>https://duynlk.github.io/uong-tra-voi-bo/</link>
+      <link>https://duynlk.github.io/posts/uong-tra-voi-bo/</link>
       <pubDate>Wed, 25 Jan 2023 14:14:01 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/uong-tra-voi-bo/</guid>
-      <description>&lt;p&gt;Lâu rồi không ngồi uống trà với bố&lt;br&gt;
-một năm khóc-cười, con lại về đây&lt;br&gt;
-nhờ nương náu sau tháng ngày gian khổ&lt;br&gt;
-nghe hương xuân rơi từ nhánh mai gầy&lt;/p&gt;
-&lt;p&gt;Con đã đến nơi xứ người đất lạ&lt;br&gt;
-lúc đói-no, khi hối hả-chần chừ&lt;br&gt;
-và khi khóc chẳng cần ai bên cạnh&lt;br&gt;
-đàn ông mình phải mạnh mẽ thế ư?&lt;/p&gt;
-&lt;p&gt;Đời muốn ta làm cây tùng cây bách&lt;br&gt;
-nước mắt không rơi mà chảy ngược dòng&lt;br&gt;
-ngoài vẻ lạnh lùng là bao cay đắng&lt;br&gt;
-úp mặt, ngớ người .. vì kẻ khác thành công&lt;/p&gt;
-&lt;p&gt;Con đã hiểu sau bàn tay chai sạn&lt;br&gt;
-vầng trán nhăn cùng bờ tóc bạc màu&lt;br&gt;
-rít hơi thuốc, đưa mắt nhìn xa lắm&lt;br&gt;
-bố điềm nhiên, rồi nói khẽ: &amp;ldquo;Không sao!&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Chào bố ạ! Con đi đây kẻo muộn&lt;br&gt;
-kiếp đời trôi theo từng cánh mai rơi&lt;br&gt;
-đâu đó gặp những điều không mong muốn&lt;br&gt;
-bình thường thôi .. ta hãy cứ tươi cười!&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Bến Tre, 2023.01.25&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/uong-tra-voi-bo/</guid>
+      <description>Lâu rồi không ngồi uống trà với bố
+một năm khóc-cười, con lại về đây
+nhờ nương náu sau tháng ngày gian khổ
+nghe hương xuân rơi từ nhánh mai gầy
+Con đã đến nơi xứ người đất lạ
+lúc đói-no, khi hối hả-chần chừ
+và khi khóc chẳng cần ai bên cạnh
+đàn ông mình phải mạnh mẽ thế ư?
+Đời muốn ta làm cây tùng cây bách
+nước mắt không rơi mà chảy ngược dòng</description>
     </item>
-    
-    
     
     <item>
       <title>Vẫn là em thôi</title>
-      <link>https://duynlk.github.io/van-la-em-thoi/</link>
+      <link>https://duynlk.github.io/posts/van-la-em-thoi/</link>
       <pubDate>Wed, 18 Jan 2023 22:09:57 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/van-la-em-thoi/</guid>
-      <description>&lt;p&gt;Không nhất dáng, chẳng nhì da&lt;br&gt;
-có gầy có béo vẫn là em thôi&lt;/p&gt;
-&lt;p&gt;Hơi đâu nghe chuyện của người&lt;br&gt;
-ta đâu phải sống vì lời thị phi&lt;/p&gt;
-&lt;p&gt;Đời chê, em khóc. Ích gì?&lt;br&gt;
-em ơi kẻo tuổi xuân thì sắp qua&lt;/p&gt;
-&lt;p&gt;Cuối cùng ta vẫn là ta&lt;br&gt;
-người không thích? Vậy dĩ hòa .. rồi thôi!&lt;/p&gt;
-&lt;p&gt;Dẫu sao chỉ sống một đời&lt;br&gt;
-nên ta cứ nở nụ cười, nghe em ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2023.01.18&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/van-la-em-thoi/</guid>
+      <description>Không nhất dáng, chẳng nhì da
+có gầy có béo vẫn là em thôi
+Hơi đâu nghe chuyện của người
+ta đâu phải sống vì lời thị phi
+Đời chê, em khóc. Ích gì?
+em ơi kẻo tuổi xuân thì sắp qua
+Cuối cùng ta vẫn là ta
+người không thích? Vậy dĩ hòa .. rồi thôi!
+Dẫu sao chỉ sống một đời
+nên ta cứ nở nụ cười, nghe em .</description>
     </item>
-    
-    
     
     <item>
       <title>Về với mẹ</title>
-      <link>https://duynlk.github.io/ve-voi-me/</link>
+      <link>https://duynlk.github.io/posts/ve-voi-me/</link>
       <pubDate>Fri, 13 Jan 2023 22:08:42 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/ve-voi-me/</guid>
-      <description>&lt;p&gt;Về với mẹ chẳng bao giờ đói bụng&lt;br&gt;
-cơm xứ người hai buổi nuốt không trôi&lt;br&gt;
-con quay quắt giữa những điều sai đúng&lt;br&gt;
-chợt nhận ra là mẹ đã già rồi&lt;/p&gt;
-&lt;p&gt;Đành mật ngọt chẳng chia đều tất cả&lt;br&gt;
-vẫn muốn đi cho thỏa chí tang bồng&lt;br&gt;
-gần Tết đến nên lạnh nhiều mẹ ạ&lt;br&gt;
-ở quê nhà mẹ có khỏe hay không?&lt;/p&gt;
-&lt;p&gt;Con sẽ về bên chiếc giường thuở nhỏ&lt;br&gt;
-ngủ thật say mà chẳng nghĩ ngợi gì&lt;br&gt;
-đôi khi lớn .. ngỡ mình là khách trọ&lt;br&gt;
-ở vài ngày xong lại vội vàng đi&lt;/p&gt;
-&lt;p&gt;Mẹ đừng khóc, mai con về với mẹ&lt;br&gt;
-đường dù xa .. nhớ mẹ .. cũng thành gần&lt;br&gt;
-thôi ! rũ hết những ưu phiền, tất bật&lt;br&gt;
-dưới hiên nhà quê mẹ có mùa xuân ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2023.01.13&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/ve-voi-me/</guid>
+      <description>Về với mẹ chẳng bao giờ đói bụng
+cơm xứ người hai buổi nuốt không trôi
+con quay quắt giữa những điều sai đúng
+chợt nhận ra là mẹ đã già rồi
+Đành mật ngọt chẳng chia đều tất cả
+vẫn muốn đi cho thỏa chí tang bồng
+gần Tết đến nên lạnh nhiều mẹ ạ
+ở quê nhà mẹ có khỏe hay không?
+Con sẽ về bên chiếc giường thuở nhỏ</description>
     </item>
-    
-    
     
     <item>
       <title>Một ngày mất điện</title>
-      <link>https://duynlk.github.io/mot-ngay-mat-dien/</link>
+      <link>https://duynlk.github.io/posts/mot-ngay-mat-dien/</link>
       <pubDate>Tue, 10 Jan 2023 23:17:24 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/mot-ngay-mat-dien/</guid>
-      <description>&lt;p&gt;Một ngày bỗng dưng .. mất điện&lt;br&gt;
-nắng oi nghiêng cả phố phường&lt;br&gt;
-khóm hoa dã quỳ trước cửa&lt;br&gt;
-vì đâu nay đẹp lạ thường&lt;/p&gt;
-&lt;p&gt;Gác sách cũ mèm đóng bụi&lt;br&gt;
-em quên truyện cổ hồi lâu&lt;br&gt;
-sính lễ bằng tre trăm đốt&lt;br&gt;
-hay nàng Chức Nữ chờ Ngưu&lt;/p&gt;
-&lt;p&gt;Em có nghe mùi cỏ dại&lt;br&gt;
-những ngày lên sáu lên năm&lt;br&gt;
-rủ nhau xây chòi, đắp đất&lt;br&gt;
-trời mưa đi bắt cua đồng&lt;/p&gt;
-&lt;p&gt;Em biết chăng tờ thư cũ&lt;br&gt;
-ngày xưa ba chở má về&lt;br&gt;
-nhét vội vào tay bẽn lẽn&lt;br&gt;
-sau này nên nghĩa phu thê&lt;/p&gt;
-&lt;p&gt;Những lẽ thường tình, đơn giản&lt;br&gt;
-đâu ưa gõ trống, khua thùng&lt;br&gt;
-thời gian chẳng chờ ai cả&lt;br&gt;
-đời người cũng vậy, phải không?&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Thế rồi bỗng dưng .. có điện&lt;br&gt;
-chào nhau hết buổi chuyện trò&lt;br&gt;
-khi ta bận cầm điện thoại&lt;br&gt;
-bên trời chim vẫn líu lo ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2023.01.10&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/mot-ngay-mat-dien/</guid>
+      <description>Một ngày bỗng dưng .. mất điện
+nắng oi nghiêng cả phố phường
+khóm hoa dã quỳ trước cửa
+vì đâu nay đẹp lạ thường
+Gác sách cũ mèm đóng bụi
+em quên truyện cổ hồi lâu
+sính lễ bằng tre trăm đốt
+hay nàng Chức Nữ chờ Ngưu
+Em có nghe mùi cỏ dại
+những ngày lên sáu lên năm
+rủ nhau xây chòi, đắp đất
+trời mưa đi bắt cua đồng</description>
     </item>
-    
-    
     
     <item>
       <title>Có vay có trả</title>
-      <link>https://duynlk.github.io/co-vay-co-tra/</link>
+      <link>https://duynlk.github.io/posts/co-vay-co-tra/</link>
       <pubDate>Sun, 08 Jan 2023 07:57:28 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/co-vay-co-tra/</guid>
-      <description>&lt;p&gt;Đứa con anh nay chừng mười ba tuổi&lt;br&gt;
-hỏi cha đâu, mẹ nói: bận đi làm&lt;br&gt;
-ngày hôm đó anh đi không về nữa&lt;br&gt;
-sau chấn song chiều trời đổ màu lam&lt;/p&gt;
-&lt;p&gt;Má anh khóc và giờ không khóc được&lt;br&gt;
-ba anh buồn và chẳng nói năng chi&lt;br&gt;
-ôi tuổi trẻ dại ngờ và nông nổi&lt;br&gt;
-chỉ còn đêm và những tiếng thầm thì&lt;/p&gt;
-&lt;p&gt;Giờ ngồi giữa bốn vách tường đơn độc&lt;br&gt;
-khóc, than, đau - thì có được gì đâu&lt;br&gt;
-thôi nước mắt rơi đủ rồi .. buông nhé!&lt;br&gt;
-vì nhân gian không đánh kẻ quay đầu ..&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Sống cho ta, và cả cho người nữa&lt;br&gt;
-đời sắc không, ta vốn dĩ vô thường&lt;br&gt;
-đừng tiếc rẻ lời cảm ơn, xin lỗi&lt;br&gt;
-có một kẻ thù, đang ở trong gương ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Bến Tre, 2022.02.28&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;~ Cần Thơ, 2023.01.08&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/co-vay-co-tra/</guid>
+      <description>Đứa con anh nay chừng mười ba tuổi
+hỏi cha đâu, mẹ nói: bận đi làm
+ngày hôm đó anh đi không về nữa
+sau chấn song chiều trời đổ màu lam
+Má anh khóc và giờ không khóc được
+ba anh buồn và chẳng nói năng chi
+ôi tuổi trẻ dại ngờ và nông nổi
+chỉ còn đêm và những tiếng thầm thì
+Giờ ngồi giữa bốn vách tường đơn độc</description>
     </item>
-    
-    
     
     <item>
       <title>Tình âm dương</title>
-      <link>https://duynlk.github.io/tinh-am-duong/</link>
+      <link>https://duynlk.github.io/posts/tinh-am-duong/</link>
       <pubDate>Fri, 06 Jan 2023 00:23:50 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/tinh-am-duong/</guid>
-      <description>&lt;p&gt;Thấy em về trên phố&lt;br&gt;
-tay cầm nhành oải hương&lt;br&gt;
-Cần Thành chiều mưa đổ&lt;br&gt;
-lòng anh nao nao buồn&lt;/p&gt;
-&lt;p&gt;Thấy em ngồi cặm cụi&lt;br&gt;
-đồng hồ điểm canh ba&lt;br&gt;
-trụng gói mì ăn vội&lt;br&gt;
-rồi thiếp đi lúc nào&lt;/p&gt;
-&lt;p&gt;Thấy em bên bè bạn&lt;br&gt;
-miệng nói nói, cười cười&lt;br&gt;
-nhưng mà trong đáy mắt&lt;br&gt;
-tồn tại điều không vui ..&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Em tìm về quán quen&lt;br&gt;
-nơi mình từng hò hẹn&lt;br&gt;
-gọi tách cà phê đen&lt;br&gt;
-ngậm ngùi ôm hoài niệm&lt;/p&gt;
-&lt;p&gt;Sau cùng .. là cách biệt&lt;br&gt;
-anh không nói nửa lời&lt;br&gt;
-mây trời còn xanh biếc&lt;br&gt;
-ta không còn chung đôi&lt;/p&gt;
-&lt;p&gt;Nhành oải hương ngã quỵ&lt;br&gt;
-chiều Cần Thành ngổn ngang&lt;br&gt;
-có ngờ đâu thiên ý&lt;br&gt;
-làm tình trần oán than&lt;/p&gt;
-&lt;p&gt;Thấy em, và anh nữa&lt;br&gt;
-mười, hai mươi năm sau&lt;br&gt;
-ta vẫn còn câu hứa&lt;br&gt;
-nhưng không còn bên nhau!&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Em, hãy dìu dặt bước&lt;br&gt;
-cùng màu tím chân thành&lt;br&gt;
-men lối mòn thân thuộc&lt;br&gt;
-đặt lên mồ .. cho anh ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2023.01.06&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/tinh-am-duong/</guid>
+      <description>Thấy em về trên phố
+tay cầm nhành oải hương
+Cần Thành chiều mưa đổ
+lòng anh nao nao buồn
+Thấy em ngồi cặm cụi
+đồng hồ điểm canh ba
+trụng gói mì ăn vội
+rồi thiếp đi lúc nào
+Thấy em bên bè bạn
+miệng nói nói, cười cười
+nhưng mà trong đáy mắt
+tồn tại điều không vui ..
+* * *
+Em tìm về quán quen
+nơi mình từng hò hẹn</description>
     </item>
-    
-    
     
     <item>
       <title>Mẹ là mùa xuân</title>
-      <link>https://duynlk.github.io/me-la-mua-xuan/</link>
+      <link>https://duynlk.github.io/posts/me-la-mua-xuan/</link>
       <pubDate>Mon, 02 Jan 2023 08:59:54 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/me-la-mua-xuan/</guid>
-      <description>&lt;p&gt;Mẹ trồng đôi bụi cúc&lt;br&gt;
-cho tụi nhỏ về nhìn&lt;br&gt;
-năm này trôi mau thật&lt;br&gt;
-mới thoáng đó mà xuân&lt;/p&gt;
-&lt;p&gt;Con nghe hương cỏ cây&lt;br&gt;
-từ quê nhà vọng lại&lt;br&gt;
-trời thành phố nhiều mây&lt;br&gt;
-tay mẹ gầy khắc khoải&lt;/p&gt;
-&lt;p&gt;Rồi bao nhiêu xuân nữa&lt;br&gt;
-khi tóc ngả về chiều&lt;br&gt;
-đời con còn tuổi trẻ&lt;br&gt;
-đời mẹ không còn nhiều&lt;/p&gt;
-&lt;p&gt;Con lăn ra thế giới&lt;br&gt;
-đi khắp vạn đường mòn&lt;br&gt;
-đơn giản thì .. với mẹ&lt;br&gt;
-thế giới .. chính là con!&lt;/p&gt;
-&lt;p&gt;Xưa tập đi, tập đứng&lt;br&gt;
-nay tập nghĩ, tập ngừng&lt;br&gt;
-đời ai còn có mẹ&lt;br&gt;
-là còn cả mùa xuân ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2023.01.02&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/me-la-mua-xuan/</guid>
+      <description>Mẹ trồng đôi bụi cúc
+cho tụi nhỏ về nhìn
+năm này trôi mau thật
+mới thoáng đó mà xuân
+Con nghe hương cỏ cây
+từ quê nhà vọng lại
+trời thành phố nhiều mây
+tay mẹ gầy khắc khoải
+Rồi bao nhiêu xuân nữa
+khi tóc ngả về chiều
+đời con còn tuổi trẻ
+đời mẹ không còn nhiều
+Con lăn ra thế giới
+đi khắp vạn đường mòn</description>
     </item>
-    
-    
     
     <item>
       <title>Người lớn cô đơn</title>
-      <link>https://duynlk.github.io/nguoi-lon-co-don/</link>
+      <link>https://duynlk.github.io/posts/nguoi-lon-co-don/</link>
       <pubDate>Fri, 30 Dec 2022 19:30:10 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/nguoi-lon-co-don/</guid>
-      <description>&lt;p&gt;Trở về căn phòng nhỏ&lt;br&gt;
-chẳng có gì mới hơn&lt;br&gt;
-ngày này qua tháng nọ&lt;br&gt;
-tôi ở cùng cô đơn&lt;/p&gt;
-&lt;p&gt;Từ đồng xanh, mái ngói&lt;br&gt;
-lên phố thị, hoa đèn&lt;br&gt;
-có người tôi nhớ mặt&lt;br&gt;
-có người tôi quên tên&lt;/p&gt;
-&lt;p&gt;Những cuộc cà phê vội&lt;br&gt;
-chỉ kháo nhau về tiền&lt;br&gt;
-về điều cần đánh đổi&lt;br&gt;
-để mai này an yên&lt;/p&gt;
-&lt;p&gt;Tôi đứng lên rời tiệc&lt;br&gt;
-có kẻ khều sau lưng&lt;br&gt;
-chuyện lỗi lầm, tôi nhận&lt;br&gt;
-chuyện thị phi, xin đừng&lt;/p&gt;
-&lt;p&gt;Tôi cũng yêu người đó&lt;br&gt;
-rồi tan vỡ, buồn thay&lt;br&gt;
-có tiền và .. tất cả&lt;br&gt;
-không có nhau sau này&lt;/p&gt;
-&lt;p&gt;Câu đầu môi chót lưỡi&lt;br&gt;
-chỉ là lời hứa suông&lt;br&gt;
-thật ra làm người lớn&lt;br&gt;
-chúng ta cùng cô đơn ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2021.12.30&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/nguoi-lon-co-don/</guid>
+      <description>Trở về căn phòng nhỏ
+chẳng có gì mới hơn
+ngày này qua tháng nọ
+tôi ở cùng cô đơn
+Từ đồng xanh, mái ngói
+lên phố thị, hoa đèn
+có người tôi nhớ mặt
+có người tôi quên tên
+Những cuộc cà phê vội
+chỉ kháo nhau về tiền
+về điều cần đánh đổi
+để mai này an yên
+Tôi đứng lên rời tiệc
+có kẻ khều sau lưng</description>
     </item>
-    
-    
     
     <item>
       <title>Vỡ</title>
-      <link>https://duynlk.github.io/vo/</link>
+      <link>https://duynlk.github.io/posts/vo/</link>
       <pubDate>Tue, 27 Dec 2022 22:08:03 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/vo/</guid>
-      <description>&lt;p&gt;Đầu xuân hoa nở&lt;br&gt;
-cuối trời mây bay&lt;br&gt;
-hôm nào gặp gỡ&lt;br&gt;
-giờ thì chia tay&lt;/p&gt;
-&lt;p&gt;Lẽ nào như vậy&lt;br&gt;
-trong chiếc hôn đầu&lt;br&gt;
-có lời giã biệt&lt;br&gt;
-cho ngày mai sau&lt;/p&gt;
-&lt;p&gt;Người vui đi nhé&lt;br&gt;
-để buồn lại tôi&lt;br&gt;
-bao lời thề hứa&lt;br&gt;
-giờ đành phai phôi&lt;/p&gt;
-&lt;p&gt;Ta yêu, ta nhớ&lt;br&gt;
-nhưng nay .. ta dừng&lt;br&gt;
-người thương một thuở&lt;br&gt;
-giờ thành .. người dưng&lt;/p&gt;
-&lt;p&gt;Trên đường lỡ gặp&lt;br&gt;
-ngoảnh mặt, hay chào&lt;br&gt;
-giữa đời tấp nập&lt;br&gt;
-dặn lòng .. không sao ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2022.12.27&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/vo/</guid>
+      <description>Đầu xuân hoa nở
+cuối trời mây bay
+hôm nào gặp gỡ
+giờ thì chia tay
+Lẽ nào như vậy
+trong chiếc hôn đầu
+có lời giã biệt
+cho ngày mai sau
+Người vui đi nhé
+để buồn lại tôi
+bao lời thề hứa
+giờ đành phai phôi
+Ta yêu, ta nhớ
+nhưng nay .. ta dừng
+người thương một thuở
+giờ thành .. người dưng
+Trên đường lỡ gặp</description>
     </item>
-    
-    
     
     <item>
       <title>Hạnh phúc muôn màu</title>
-      <link>https://duynlk.github.io/hanh-phuc-muon-mau/</link>
+      <link>https://duynlk.github.io/posts/hanh-phuc-muon-mau/</link>
       <pubDate>Sun, 25 Dec 2022 19:58:23 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/hanh-phuc-muon-mau/</guid>
-      <description>&lt;p&gt;Có những niềm vui không giống nhau&lt;br&gt;
-vừa hay .. hạnh phúc cũng muôn màu&lt;br&gt;
-anh nghe tiếng khóc trong câu hát&lt;br&gt;
-em thấy nụ cười trong đớn đau&lt;/p&gt;
-&lt;p&gt;Có kẻ nằm chăn ấm nệm êm&lt;br&gt;
-tay cầm bạc tỷ vẫn mong thêm&lt;br&gt;
-có kẻ an lòng năm ba triệu&lt;br&gt;
-pha tách trà thơm đọc sách hiền&lt;/p&gt;
-&lt;p&gt;Có kẻ được thời bao tiếng tăm&lt;br&gt;
-ở rừng cũng lắm khách sang thăm&lt;br&gt;
-có kẻ ẩn mình nơi phố thị&lt;br&gt;
-đôi dép mòn lê chẳng ai tìm&lt;/p&gt;
-&lt;p&gt;Gạt nước mắt rời xa cố hương&lt;br&gt;
-có người mang gánh nợ tha phương&lt;br&gt;
-bữa nay có kẻ sang mời cưới&lt;br&gt;
-mẹ nói em tôi .. đã lấy chồng!&lt;/p&gt;
-&lt;p&gt;Có kẻ tìm quên chốn cửa thiền&lt;br&gt;
-nương lời kinh kệ để tâm yên&lt;br&gt;
-có người như cánh chim phiêu bạt&lt;br&gt;
-ngủ với trăng sao khắp mọi miền&lt;/p&gt;
-&lt;p&gt;Có kẻ bay ra khỏi địa cầu&lt;br&gt;
-tìm miền đất hứa hẹn dành sau&lt;br&gt;
-có người trên lớp ê a giảng&lt;br&gt;
-dạy các em thơ nét chữ đầu&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Và rồi ai cũng sẽ như ai&lt;br&gt;
-hạnh phúc đan trong chuyện thường ngày&lt;br&gt;
-nếu lỡ .. ta không là gì cả&lt;br&gt;
-xin làm gió thoảng, với mây bay ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2022.12.25&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/hanh-phuc-muon-mau/</guid>
+      <description>Có những niềm vui không giống nhau
+vừa hay .. hạnh phúc cũng muôn màu
+anh nghe tiếng khóc trong câu hát
+em thấy nụ cười trong đớn đau
+Có kẻ nằm chăn ấm nệm êm
+tay cầm bạc tỷ vẫn mong thêm
+có kẻ an lòng năm ba triệu
+pha tách trà thơm đọc sách hiền
+Có kẻ được thời bao tiếng tăm
+ở rừng cũng lắm khách sang thăm</description>
     </item>
-    
-    
     
     <item>
       <title>Ngoài kia mùa xuân tới</title>
-      <link>https://duynlk.github.io/ngoai-kia-mua-xuan-toi/</link>
+      <link>https://duynlk.github.io/posts/ngoai-kia-mua-xuan-toi/</link>
       <pubDate>Thu, 22 Dec 2022 20:45:28 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/ngoai-kia-mua-xuan-toi/</guid>
-      <description>&lt;p&gt;Nhặt nhạnh sợi buồn rơi&lt;br&gt;
-pha tách trà nóng hổi&lt;br&gt;
-em ngồi yên, không nói&lt;br&gt;
-vậy là một năm trôi&lt;/p&gt;
-&lt;p&gt;Thôi kể điều được mất&lt;br&gt;
-thôi kể điều rủi may&lt;br&gt;
-ai làm em buồn vậy&lt;br&gt;
-sao nghe hơi thở dài&lt;/p&gt;
-&lt;p&gt;Em, ngoài kia mùa đông&lt;br&gt;
-đá run mình cầm cập&lt;br&gt;
-em, rồi mai mùa xuân&lt;br&gt;
-cây đâm chồi nảy lộc&lt;/p&gt;
-&lt;p&gt;Những ngày không như ý&lt;br&gt;
-hãy coi như lẽ thường&lt;br&gt;
-ta chỉ cần .. đơn giản&lt;br&gt;
-thương người mình cần thương&lt;/p&gt;
-&lt;p&gt;Ghi lời yêu trên sỏi&lt;br&gt;
-hờn căm - trên cát mềm&lt;br&gt;
-dẫu sao thì ai cũng&lt;br&gt;
-muốn đời mình an yên&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Nhặt nhạnh sợi buồn rơi&lt;br&gt;
-em còn gì chưa nói&lt;br&gt;
-pha tách trà nóng hổi&lt;br&gt;
-đón xuân về đi thôi ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2022.12.22&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/ngoai-kia-mua-xuan-toi/</guid>
+      <description>Nhặt nhạnh sợi buồn rơi
+pha tách trà nóng hổi
+em ngồi yên, không nói
+vậy là một năm trôi
+Thôi kể điều được mất
+thôi kể điều rủi may
+ai làm em buồn vậy
+sao nghe hơi thở dài
+Em, ngoài kia mùa đông
+đá run mình cầm cập
+em, rồi mai mùa xuân
+cây đâm chồi nảy lộc
+Những ngày không như ý
+hãy coi như lẽ thường</description>
     </item>
-    
-    
     
     <item>
       <title>Điệp khúc ru em</title>
-      <link>https://duynlk.github.io/diep-khuc-ru-em/</link>
+      <link>https://duynlk.github.io/posts/diep-khuc-ru-em/</link>
       <pubDate>Tue, 20 Dec 2022 22:33:20 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/diep-khuc-ru-em/</guid>
-      <description>&lt;p&gt;Sẽ là gì hoặc chẳng là gì&lt;br&gt;
-là mầm xanh hay rễ xù xì&lt;br&gt;
-là bình yên khi bão tan đi&lt;br&gt;
-là người điên khi tỉnh khi mê&lt;/p&gt;
-&lt;p&gt;Sẽ làm gì hoặc chẳng làm gì&lt;br&gt;
-làm mưa mây hay gió thầm thì&lt;br&gt;
-làm sương mai trên cánh thiên di&lt;br&gt;
-làm hoa thơm đưa lối em về&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Sẽ yêu người hoặc chỉ yêu mình&lt;br&gt;
-kề bên nhau hay xót xa nhìn&lt;br&gt;
-lời đong đưa ta trót ta tin&lt;br&gt;
-chiều hôm kia ta biết ta lầm&lt;/p&gt;
-&lt;p&gt;Dùng tình thương che lấp hận thù&lt;br&gt;
-đời đua tranh ta cứ từ từ&lt;br&gt;
-ngồi bên hiên kể hết tâm tư&lt;br&gt;
-rồi nghe câu điệp khúc anh ru!&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Chẳng là gì thôi cứ là mình&lt;br&gt;
-lời ca em sao bỗng ngập ngừng&lt;br&gt;
-cười lên em ta hát ung dung&lt;br&gt;
-đời cho em một đóa hoa xuân ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2022.12.20&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/diep-khuc-ru-em/</guid>
+      <description>Sẽ là gì hoặc chẳng là gì
+là mầm xanh hay rễ xù xì
+là bình yên khi bão tan đi
+là người điên khi tỉnh khi mê
+Sẽ làm gì hoặc chẳng làm gì
+làm mưa mây hay gió thầm thì
+làm sương mai trên cánh thiên di
+làm hoa thơm đưa lối em về
+* * *
+Sẽ yêu người hoặc chỉ yêu mình
+kề bên nhau hay xót xa nhìn</description>
     </item>
-    
-    
     
     <item>
       <title>Người giữa người với nhau</title>
-      <link>https://duynlk.github.io/nguoi-giua-nguoi-voi-nhau/</link>
+      <link>https://duynlk.github.io/posts/nguoi-giua-nguoi-voi-nhau/</link>
       <pubDate>Sun, 18 Dec 2022 00:09:27 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/nguoi-giua-nguoi-voi-nhau/</guid>
-      <description>&lt;p&gt;Bon chen trên chuyến xe đời&lt;br&gt;
-tỵ hiềm chi .. người giữa người với nhau&lt;/p&gt;
-&lt;p&gt;Được thời một bước lên cao&lt;br&gt;
-thất thời ngàn dặm đồng thau hóa bùn&lt;/p&gt;
-&lt;p&gt;Đã từng uống nước sông chung&lt;br&gt;
-đã từng thề hẹn, cuối cùng .. người quên&lt;/p&gt;
-&lt;p&gt;Chẳng mơ về cõi thần tiên&lt;br&gt;
-chỉ mong vơi chút muộn phiền .. thế thôi!&lt;/p&gt;
-&lt;p&gt;Mai sau dù khóc hay cười&lt;br&gt;
-bao dung nhé .. người giữa người với nhau ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2022.12.18&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/nguoi-giua-nguoi-voi-nhau/</guid>
+      <description>Bon chen trên chuyến xe đời
+tỵ hiềm chi .. người giữa người với nhau
+Được thời một bước lên cao
+thất thời ngàn dặm đồng thau hóa bùn
+Đã từng uống nước sông chung
+đã từng thề hẹn, cuối cùng .. người quên
+Chẳng mơ về cõi thần tiên
+chỉ mong vơi chút muộn phiền .. thế thôi!
+Mai sau dù khóc hay cười
+bao dung nhé .. người giữa người với nhau .</description>
     </item>
-    
-    
     
     <item>
       <title>Về quê nội</title>
-      <link>https://duynlk.github.io/ve-que-noi/</link>
+      <link>https://duynlk.github.io/posts/ve-que-noi/</link>
       <pubDate>Wed, 14 Dec 2022 21:44:51 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/ve-que-noi/</guid>
-      <description>&lt;p&gt;Về quê nội tiếng dừa ru mát rượi&lt;br&gt;
-gió thổi chiều sông ngọt lịm phù sa&lt;br&gt;
-trăm quả đắng chan cơm đời xa xứ&lt;br&gt;
-chợt thấy bình yên khi trở về nhà&lt;/p&gt;
-&lt;p&gt;Ông đã mất từ hồi còn chinh chiến&lt;br&gt;
-thời đạn bom lùa xém tóc, cháy xương&lt;br&gt;
-mùi thịt khét xộc vào người góa phụ&lt;br&gt;
-gạt niềm đau nuôi bọn trẻ đến trường&lt;/p&gt;
-&lt;p&gt;Rồi chúng lớn đi theo chồng, theo vợ&lt;br&gt;
-mùa cau khô rơi tỏm nước, lềnh bềnh&lt;br&gt;
-buồng chuối chín trĩu quằn chim ăn hết&lt;br&gt;
-tụi nhỏ không về, quê nội buồn tênh&lt;/p&gt;
-&lt;p&gt;Quẩn quanh mãi cái vòng luân phiên ấy&lt;br&gt;
-kẻ đầu xanh, đầu bạc, lại chờ nhau&lt;br&gt;
-dù cứng cỏi giữa muôn hình vạn trạng&lt;br&gt;
-vẫn ngùi ngùi khi phải: Hẹn lần sau!&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Về quê nội nghe tiếng gà cục tác&lt;br&gt;
-hàng rào thưa râm bụt đốn đi rồi&lt;br&gt;
-mươi năm nữa giữa căn nhà mục nát&lt;br&gt;
-biết đâu người cô độc đó .. là tôi ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2022.12.14&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/ve-que-noi/</guid>
+      <description>Về quê nội tiếng dừa ru mát rượi
+gió thổi chiều sông ngọt lịm phù sa
+trăm quả đắng chan cơm đời xa xứ
+chợt thấy bình yên khi trở về nhà
+Ông đã mất từ hồi còn chinh chiến
+thời đạn bom lùa xém tóc, cháy xương
+mùi thịt khét xộc vào người góa phụ
+gạt niềm đau nuôi bọn trẻ đến trường
+Rồi chúng lớn đi theo chồng, theo vợ</description>
     </item>
-    
-    
     
     <item>
       <title>Cafe mùa đông</title>
-      <link>https://duynlk.github.io/cafe-mua-dong/</link>
+      <link>https://duynlk.github.io/posts/cafe-mua-dong/</link>
       <pubDate>Thu, 08 Dec 2022 21:23:06 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/cafe-mua-dong/</guid>
-      <description>&lt;p&gt;Có cuộc cà phê lỗi hẹn&lt;br&gt;
-em chờ ai giữa mùa đông&lt;br&gt;
-muốn giữ .. không còn gì cả&lt;br&gt;
-muốn buông .. nhưng chẳng đành lòng&lt;/p&gt;
-&lt;p&gt;Em ước mình rời phố thị&lt;br&gt;
-lên non ở với hoa rừng&lt;br&gt;
-dăm kẻ bộ hành đi lạc&lt;br&gt;
-trở về ôm mối bâng khuâng&lt;/p&gt;
-&lt;p&gt;Em vẫn là em! Ta biết&lt;br&gt;
-sau bao dâu bể, sóng ngầm&lt;br&gt;
-vẫn hát lời yêu tha thiết&lt;br&gt;
-dù tình còn mãi lênh đênh ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2022.12.08&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/cafe-mua-dong/</guid>
+      <description>Có cuộc cà phê lỗi hẹn
+em chờ ai giữa mùa đông
+muốn giữ .. không còn gì cả
+muốn buông .. nhưng chẳng đành lòng
+Em ước mình rời phố thị
+lên non ở với hoa rừng
+dăm kẻ bộ hành đi lạc
+trở về ôm mối bâng khuâng
+Em vẫn là em! Ta biết
+sau bao dâu bể, sóng ngầm
+vẫn hát lời yêu tha thiết
+dù tình còn mãi lênh đênh .</description>
     </item>
-    
-    
     
     <item>
       <title>Thôi thế là thôi nhé!</title>
-      <link>https://duynlk.github.io/thoi-the-la-thoi-nhe/</link>
+      <link>https://duynlk.github.io/posts/thoi-the-la-thoi-nhe/</link>
       <pubDate>Sun, 04 Dec 2022 20:37:36 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/thoi-the-la-thoi-nhe/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Tản mạn sau khi xem xong một đoạn phim buồn)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Nhỏ bây giờ vẫn vậy&lt;br&gt;
-chỉ có ta già đi&lt;br&gt;
-sông đời thì tĩnh lặng&lt;br&gt;
-riêng lòng ta ầm ì&lt;/p&gt;
-&lt;p&gt;Thuở chung đường tan học&lt;br&gt;
-ta theo nhỏ đi về&lt;br&gt;
-một ngày em bật khóc&lt;br&gt;
-&amp;ldquo;Hay là mình xa i ..&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Em khoác lên màu cưới&lt;br&gt;
-vui sánh bước bên chồng&lt;br&gt;
-tay ta cầm cỏ dại&lt;br&gt;
-đâu phải nhành diêu bông&lt;/p&gt;
-&lt;p&gt;Từ độ em về đấy&lt;br&gt;
-ta dạt bước thành kinh&lt;br&gt;
-nhịp cầu xưa đã gãy&lt;br&gt;
-chỉ còn ta một mình&lt;/p&gt;
-&lt;p&gt;Và rồi năm lại năm&lt;br&gt;
-chuyện cũ đà quên mất&lt;br&gt;
-nay em lại về thăm&lt;br&gt;
-giờ thì .. ta bật khóc&lt;/p&gt;
-&lt;p&gt;Thôi thế là thôi nhé&lt;br&gt;
-dù mình đã từng thương&lt;br&gt;
-nhưng nợ trần có lẽ&lt;br&gt;
-xui ta chẳng chung đường ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2022.12.04&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/thoi-the-la-thoi-nhe/</guid>
+      <description>(Tản mạn sau khi xem xong một đoạn phim buồn)
+Nhỏ bây giờ vẫn vậy
+chỉ có ta già đi
+sông đời thì tĩnh lặng
+riêng lòng ta ầm ì
+Thuở chung đường tan học
+ta theo nhỏ đi về
+một ngày em bật khóc
+&amp;ldquo;Hay là mình xa i ..&amp;rdquo;
+Em khoác lên màu cưới
+vui sánh bước bên chồng
+tay ta cầm cỏ dại
+đâu phải nhành diêu bông</description>
     </item>
-    
-    
     
     <item>
       <title>Thơ này con thả lên trời, Ngoại nghe!</title>
-      <link>https://duynlk.github.io/tho-nay-con-tha-len-troi-ngoai-nghe/</link>
+      <link>https://duynlk.github.io/posts/tho-nay-con-tha-len-troi-ngoai-nghe/</link>
       <pubDate>Fri, 02 Dec 2022 23:14:14 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/tho-nay-con-tha-len-troi-ngoai-nghe/</guid>
-      <description>&lt;p&gt;Ai về bên gánh bên bưng&lt;br&gt;
-hàng dừa con nước nhớ chừng Ngoại tôi&lt;br&gt;
-nắng mưa tần tảo cả đời&lt;br&gt;
-đắng cay Ngoại nhận để cười cho con&lt;/p&gt;
-&lt;p&gt;Nhà nghèo đâu có gì hơn&lt;br&gt;
-dăm ba trái ổi sẻ giòn Ngoại chia&lt;br&gt;
-ầu ơ câu ví con nghe&lt;br&gt;
-nửa đêm bạc tóc vọng về ngày xưa&lt;/p&gt;
-&lt;p&gt;Ngày xưa ơi hỡi ngày xưa&lt;br&gt;
-chiều mưa rơi, nơi xứ người .. con đau&lt;br&gt;
-nghĩ mình thiếu trước hụt sau&lt;br&gt;
-ra đi để biết nơi nào sướng hơn&lt;/p&gt;
-&lt;p&gt;Vội tìm cái lạ cái khôn&lt;br&gt;
-mà quên mất cái giản đơn ở đời&lt;br&gt;
-Ngoại đi, con khóc, Ngoại cười&lt;br&gt;
-thơ này con thả lên trời, Ngoại nghe!&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2022.12.02&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/tho-nay-con-tha-len-troi-ngoai-nghe/</guid>
+      <description>Ai về bên gánh bên bưng
+hàng dừa con nước nhớ chừng Ngoại tôi
+nắng mưa tần tảo cả đời
+đắng cay Ngoại nhận để cười cho con
+Nhà nghèo đâu có gì hơn
+dăm ba trái ổi sẻ giòn Ngoại chia
+ầu ơ câu ví con nghe
+nửa đêm bạc tóc vọng về ngày xưa
+Ngày xưa ơi hỡi ngày xưa
+chiều mưa rơi, nơi xứ người .. con đau</description>
     </item>
-    
-    
     
     <item>
       <title>Poetry for Liv.</title>
-      <link>https://duynlk.github.io/poetry-for-liv/</link>
+      <link>https://duynlk.github.io/posts/poetry-for-liv/</link>
       <pubDate>Sun, 13 Nov 2022 09:26:06 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/poetry-for-liv/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Liverpool 3 - 1 Southampton on November 12th 2022)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;No need for a championship&lt;br&gt;
-Only a game so sweet&lt;br&gt;
-Working hard day-by-day&lt;br&gt;
-Singing the nice song on the pitch ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cantho, 2022.11.13&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/poetry-for-liv/</guid>
+      <description>(Liverpool 3 - 1 Southampton on November 12th 2022)
+No need for a championship
+Only a game so sweet
+Working hard day-by-day
+Singing the nice song on the pitch ..
+Cantho, 2022.11.13</description>
     </item>
-    
-    
     
     <item>
       <title>Những ngày cuối năm</title>
-      <link>https://duynlk.github.io/nhung-ngay-cuoi-nam/</link>
+      <link>https://duynlk.github.io/posts/nhung-ngay-cuoi-nam/</link>
       <pubDate>Fri, 11 Nov 2022 21:07:34 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/nhung-ngay-cuoi-nam/</guid>
-      <description>&lt;p&gt;Đông lại hết rồi xuân lại đến&lt;br&gt;
-một năm qua luyến tiếc điều gì&lt;br&gt;
-ngày vui cũ xin người giữ lại&lt;br&gt;
-chuyện buồn, phiền, .. cứ để quên đi&lt;/p&gt;
-&lt;p&gt;Đất trời đổi thay cùng vạn vật&lt;br&gt;
-đời ta rồi qua mấy mùa xuân&lt;br&gt;
-cánh én chao nghiêng chiều đất khách&lt;br&gt;
-đường về quê hương gần thật gần ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2021.12.17&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/nhung-ngay-cuoi-nam/</guid>
+      <description>Đông lại hết rồi xuân lại đến
+một năm qua luyến tiếc điều gì
+ngày vui cũ xin người giữ lại
+chuyện buồn, phiền, .. cứ để quên đi
+Đất trời đổi thay cùng vạn vật
+đời ta rồi qua mấy mùa xuân
+cánh én chao nghiêng chiều đất khách
+đường về quê hương gần thật gần ..
+Cần Thơ, 2021.12.17</description>
     </item>
-    
-    
     
     <item>
       <title>Lời Thầy</title>
-      <link>https://duynlk.github.io/loi-thay/</link>
+      <link>https://duynlk.github.io/posts/loi-thay/</link>
       <pubDate>Wed, 24 Nov 2021 20:55:46 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/loi-thay/</guid>
-      <description>&lt;p&gt;Rưng rưng rời chuyến đò xưa&lt;br&gt;
-Thầy tôi ở lại dù mưa nắng buồn&lt;br&gt;
-tiễn người đi một đoạn đường&lt;br&gt;
-mười năm tan hợp cũng thường mà thôi&lt;/p&gt;
-&lt;p&gt;Thầy về đưa các em tôi&lt;br&gt;
-thêu hoa dệt gấm cho đời màu xanh&lt;br&gt;
-ai đi đắp lũy xây thành&lt;br&gt;
-xin còn ghi mãi trong tâm lời Thầy ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2021.11.20&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/loi-thay/</guid>
+      <description>Rưng rưng rời chuyến đò xưa
+Thầy tôi ở lại dù mưa nắng buồn
+tiễn người đi một đoạn đường
+mười năm tan hợp cũng thường mà thôi
+Thầy về đưa các em tôi
+thêu hoa dệt gấm cho đời màu xanh
+ai đi đắp lũy xây thành
+xin còn ghi mãi trong tâm lời Thầy ..
+Cần Thơ, 2021.11.20</description>
     </item>
-    
-    
     
     <item>
       <title>Đổi thay</title>
-      <link>https://duynlk.github.io/doi-thay/</link>
+      <link>https://duynlk.github.io/posts/doi-thay/</link>
       <pubDate>Tue, 02 Nov 2021 15:08:06 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/doi-thay/</guid>
-      <description>&lt;p&gt;Không còn bảng đen&lt;br&gt;
-không còn ghế đá&lt;br&gt;
-chúng tôi vào đời&lt;br&gt;
-mỗi người mỗi ngả&lt;/p&gt;
-&lt;p&gt;Như thuyền rời bến&lt;br&gt;
-như lá lìa cành&lt;br&gt;
-mây thì bay vội&lt;br&gt;
-sông thì trôi nhanh&lt;/p&gt;
-&lt;p&gt;Đứa trụ lại quê&lt;br&gt;
-đứa lên thành phố&lt;br&gt;
-cuộc sống bon chen&lt;br&gt;
-và nhiều trắc trở&lt;/p&gt;
-&lt;p&gt;Ngày xưa thầy mắng&lt;br&gt;
-dăm bữa lại quên&lt;br&gt;
-nay đời nói nặng&lt;br&gt;
-cho ta muộn phiền&lt;/p&gt;
-&lt;p&gt;Đứa vào công chức&lt;br&gt;
-đứa làm công nhân&lt;br&gt;
-đứa thì vắn số&lt;br&gt;
-về nơi bụi trần&lt;/p&gt;
-&lt;p&gt;Đứa thì hay gặp&lt;br&gt;
-hỏi giờ ra sao&lt;br&gt;
-đứa thì quên lãng&lt;br&gt;
-ra đường không chào&lt;/p&gt;
-&lt;p&gt;Sân trường vẫn đấy&lt;br&gt;
-lá vàng vẫn bay&lt;br&gt;
-thời gian vẫn vậy&lt;br&gt;
-chỉ người đổi thay ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2021.11.01&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/doi-thay/</guid>
+      <description>Không còn bảng đen
+không còn ghế đá
+chúng tôi vào đời
+mỗi người mỗi ngả
+Như thuyền rời bến
+như lá lìa cành
+mây thì bay vội
+sông thì trôi nhanh
+Đứa trụ lại quê
+đứa lên thành phố
+cuộc sống bon chen
+và nhiều trắc trở
+Ngày xưa thầy mắng
+dăm bữa lại quên
+nay đời nói nặng
+cho ta muộn phiền
+Đứa vào công chức
+đứa làm công nhân</description>
     </item>
-    
-    
     
     <item>
       <title>Nỗi buồn Covid</title>
-      <link>https://duynlk.github.io/noi-buon-covid/</link>
+      <link>https://duynlk.github.io/posts/noi-buon-covid/</link>
       <pubDate>Sat, 30 Oct 2021 23:21:58 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/noi-buon-covid/</guid>
-      <description>&lt;p&gt;Năm nay dịch giã lại về&lt;br&gt;
-xóm làng ngày đêm mất ngủ&lt;br&gt;
-những người con ở xa quê&lt;br&gt;
-chưa biết khi nào trở lại&lt;/p&gt;
-&lt;p&gt;Sáng ra nghe tin thời sự&lt;br&gt;
-trong lòng thấp thỏm lo âu&lt;br&gt;
-người ta trách nhau bất cẩn&lt;br&gt;
-bằng lời cay độc thâm sâu&lt;/p&gt;
-&lt;p&gt;Xin hãy bình tâm thấu hiểu&lt;br&gt;
-mấy ai ngu dại, cố tình&lt;br&gt;
-hôm qua nhà bên có &amp;ldquo;ép&amp;rdquo; (F)&lt;br&gt;
-biết đâu nay lại tới mình&lt;/p&gt;
-&lt;p&gt;Sáng ra nghe tin thời sự&lt;br&gt;
-buồn thay ca tử còn nhiều&lt;br&gt;
-luân hồi lỡ mà chẳng gặp&lt;br&gt;
-bao giờ nói được thương yêu?&lt;/p&gt;
-&lt;p&gt;Ta biết đời là quán trọ&lt;br&gt;
-nhưng sao vẫn thấy chạnh lòng&lt;br&gt;
-có đó rồi nay mất đó&lt;br&gt;
-vô thường sắc sắc không không ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2021.10.29&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/noi-buon-covid/</guid>
+      <description>Năm nay dịch giã lại về
+xóm làng ngày đêm mất ngủ
+những người con ở xa quê
+chưa biết khi nào trở lại
+Sáng ra nghe tin thời sự
+trong lòng thấp thỏm lo âu
+người ta trách nhau bất cẩn
+bằng lời cay độc thâm sâu
+Xin hãy bình tâm thấu hiểu
+mấy ai ngu dại, cố tình
+hôm qua nhà bên có &amp;ldquo;ép&amp;rdquo; (F)
+biết đâu nay lại tới mình</description>
     </item>
-    
-    
     
     <item>
       <title>Cảm ơn em</title>
-      <link>https://duynlk.github.io/cam-on-em/</link>
+      <link>https://duynlk.github.io/posts/cam-on-em/</link>
       <pubDate>Tue, 26 Oct 2021 21:24:11 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/cam-on-em/</guid>
-      <description>&lt;p&gt;Mở mắt ra với hai bàn tay trắng&lt;br&gt;
-bước vào đời với những đắng và cay&lt;br&gt;
-anh không chắc về ngày mai cho lắm&lt;br&gt;
-nhưng nguyện thương em đến trọn đời này&lt;/p&gt;
-&lt;p&gt;Ngày rã rời trong guồng xoay cơm áo&lt;br&gt;
-đêm chỉ mong một chỗ dựa tâm hồn&lt;br&gt;
-đi qua hết những tháng ngày giông bão&lt;br&gt;
-mới biết mình trân trọng điều gì hơn&lt;/p&gt;
-&lt;p&gt;Dẫu anh có lỗi lầm hay sai sót&lt;br&gt;
-cảm ơn em vì đã đến bên đời&lt;br&gt;
-mình chấp vá cho nhau điều tốt đẹp&lt;br&gt;
-để sau này nhìn lại thấy an vui ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2021.10.25&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/cam-on-em/</guid>
+      <description>Mở mắt ra với hai bàn tay trắng
+bước vào đời với những đắng và cay
+anh không chắc về ngày mai cho lắm
+nhưng nguyện thương em đến trọn đời này
+Ngày rã rời trong guồng xoay cơm áo
+đêm chỉ mong một chỗ dựa tâm hồn
+đi qua hết những tháng ngày giông bão
+mới biết mình trân trọng điều gì hơn
+Dẫu anh có lỗi lầm hay sai sót</description>
     </item>
-    
-    
     
     <item>
       <title>Ngôi nhà cũ</title>
-      <link>https://duynlk.github.io/ngoi-nha-cu/</link>
+      <link>https://duynlk.github.io/posts/ngoi-nha-cu/</link>
       <pubDate>Sat, 23 Oct 2021 23:59:25 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/ngoi-nha-cu/</guid>
-      <description>&lt;p&gt;Ngôi nhà cũ&lt;br&gt;
-gia đình quây quần bên mâm cơm buổi chiều&lt;br&gt;
-ăn cá khô mà cũng cười rôm rả&lt;br&gt;
-những phút sum vầy vui biết bao nhiêu&lt;/p&gt;
-&lt;p&gt;Ngôi nhà cũ&lt;br&gt;
-mẹ ngồi buồn thiu trong những ngày mưa lũ&lt;br&gt;
-cha xem ti vi nói bão sắp về&lt;br&gt;
-cây cột trước nhà mọt ăn mất gốc&lt;br&gt;
-cha mẹ dặn con sau này ráng học&lt;/p&gt;
-&lt;p&gt;Ngôi nhà cũ&lt;br&gt;
-có kẻ đi qua chê nhà mình ít chữ&lt;br&gt;
-có kẻ đi qua không một cái nhìn&lt;br&gt;
-xung quanh lầu cao, tường xây&lt;br&gt;
-thấy mình bé nhỏ&lt;br&gt;
-tổ ong tò vò chất đầy một đầy&lt;br&gt;
-con dặn con không được từ bỏ&lt;/p&gt;
-&lt;p&gt;Ngôi nhà cũ&lt;br&gt;
-ngày rời quê hương ít lành nhiều dữ&lt;br&gt;
-ai cũng bôn ba đâu phải riêng mình&lt;br&gt;
-nhiều lúc không vui, thấy nhớ gia đình&lt;br&gt;
-công danh vật chất không còn quan trọng&lt;br&gt;
-đi hết non cao, đến cùng bể rộng&lt;br&gt;
-vẫn chưa đi hết chốn quê mình&lt;/p&gt;
-&lt;p&gt;Ngôi nhà cũ&lt;br&gt;
-những món đồ chơi không còn nữa&lt;br&gt;
-ai cũng bận chơi với cuộc đời rồi&lt;br&gt;
-ta đã tạm quen với nhiều mặt người&lt;br&gt;
-nhiều lần phân ly&lt;br&gt;
-nhiều lần gặp gỡ&lt;br&gt;
-đi ngoài phố hoa dành cho họ&lt;br&gt;
-trở về nhà lệ đổ cho ta&lt;/p&gt;
-&lt;p&gt;Ngôi nhà cũ&lt;br&gt;
-cánh diều bay vướn vào cột điện&lt;br&gt;
-lũ trẻ bây giờ đâu còn chơi ô ăn quan&lt;br&gt;
-ký ức tuổi thơ chợt tan, chợt hiện&lt;br&gt;
-tuổi lớn bảo nhau mua vé trở về&lt;/p&gt;
-&lt;p&gt;Ngôi nhà cũ&lt;br&gt;
-lớp trẻ rời quê lên thành thị&lt;br&gt;
-giỗ ngoại mọi năm không thấy đứa nào về&lt;br&gt;
-con gọi hỏi, mẹ rằng: nhà vẫn ổn&lt;br&gt;
-cuộc đời có bao giờ cho ta an yên&lt;br&gt;
-ta đánh đổi điều gì sau hai chữ kim-tiền&lt;br&gt;
-anh và em, cả hai ta đều biết&lt;br&gt;
-mỏi mắt, ù tai sau một ngày làm việc&lt;br&gt;
-chỉ mong mọi người bớt làm tổn thương nhau&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Trên một dòng sông không ai tắm hai lần&lt;br&gt;
-đá núi cũng mòn sau những dấu chân&lt;br&gt;
-nheo mắt lại thấy có gì lộm cộm&lt;br&gt;
-tuổi thanh xuân thấm thoát nhạt phai dần&lt;/p&gt;
-&lt;p&gt;Đường rêu trơn con thấy thương quê hơn&lt;br&gt;
-mưa đừng rơi cho vai áo mẹ sờn&lt;br&gt;
-đi tìm kiếm nơi đâu xa lạ&lt;br&gt;
-có nơi nào đẹp bằng quê hương ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2021.10.07&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/ngoi-nha-cu/</guid>
+      <description>Ngôi nhà cũ
+gia đình quây quần bên mâm cơm buổi chiều
+ăn cá khô mà cũng cười rôm rả
+những phút sum vầy vui biết bao nhiêu
+Ngôi nhà cũ
+mẹ ngồi buồn thiu trong những ngày mưa lũ
+cha xem ti vi nói bão sắp về
+cây cột trước nhà mọt ăn mất gốc
+cha mẹ dặn con sau này ráng học
+Ngôi nhà cũ
+có kẻ đi qua chê nhà mình ít chữ</description>
     </item>
-    
-    
     
     <item>
       <title>Nhớ quê</title>
-      <link>https://duynlk.github.io/nho-que/</link>
+      <link>https://duynlk.github.io/posts/nho-que/</link>
       <pubDate>Sat, 23 Oct 2021 23:48:57 +0700</pubDate>
       
-      <guid>https://duynlk.github.io/nho-que/</guid>
-      <description>&lt;p&gt;Quê mình thì rất đẹp&lt;br&gt;
-nhưng con thì phải đi&lt;br&gt;
-hẹn thề nơi xứ lạ&lt;br&gt;
-mười năm rồi còn gì&lt;/p&gt;
-&lt;p&gt;Phải chăng mình khôn lớn&lt;br&gt;
-mới biết đâu là nhà&lt;br&gt;
-chưa báo ơn cho Mẹ&lt;br&gt;
-chưa đền được công Cha&lt;/p&gt;
-&lt;p&gt;Ngày con đi Mẹ khóc&lt;br&gt;
-Cha nghẹn ngào quay lưng&lt;br&gt;
-hai mái đầu nhuốm bạc&lt;br&gt;
-nhìn con bước xa dần&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Con đi ngoài gió sương&lt;br&gt;
-mưa rơi khắp dặm trường&lt;br&gt;
-nắng lên đời hoang hoải&lt;br&gt;
-đâu phải nắng quê hương&lt;/p&gt;
-&lt;p&gt;Mùa trăng không hẹn trước&lt;br&gt;
-nhân thế tựa màn sương&lt;br&gt;
-&amp;ldquo;Khi nào về với Mẹ?&amp;rdquo;&lt;br&gt;
-nghĩ lại thấy mà thương&lt;/p&gt;
-&lt;p&gt;Bụi đường vương vai áo&lt;br&gt;
-hành trang trĩu nặng sầu&lt;br&gt;
-lệ nhường cho kẻ khó&lt;br&gt;
-còn hoa để tặng giàu&lt;/p&gt;
-&lt;p&gt;Bao kiếp người rong ruổi&lt;br&gt;
-ai biết được nông sâu&lt;br&gt;
-về quê nghe tiếng Mẹ&lt;br&gt;
-nước mắt thời khô mau&lt;/p&gt;
-&lt;p&gt;* * *&lt;/p&gt;
-&lt;p&gt;Quê mình thì rất đẹp&lt;br&gt;
-nhưng con phải xa rồi&lt;br&gt;
-lỡ như mà muốn gặp&lt;br&gt;
-chắc còn .. trong mơ thôi ..&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cần Thơ, 2021.08.27&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://duynlk.github.io/posts/nho-que/</guid>
+      <description>Quê mình thì rất đẹp
+nhưng con thì phải đi
+hẹn thề nơi xứ lạ
+mười năm rồi còn gì
+Phải chăng mình khôn lớn
+mới biết đâu là nhà
+chưa báo ơn cho Mẹ
+chưa đền được công Cha
+Ngày con đi Mẹ khóc
+Cha nghẹn ngào quay lưng
+hai mái đầu nhuốm bạc
+nhìn con bước xa dần
+* * *
+Con đi ngoài gió sương
+mưa rơi khắp dặm trường</description>
     </item>
-    
     
   </channel>
 </rss>
