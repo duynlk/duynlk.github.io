@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://duynlk.github.io/</loc>
+    <lastmod>2023-05-01T19:08:23+07:00</lastmod>
+  </url><url>
+    <loc>https://duynlk.github.io/posts/phuong/</loc>
+    <lastmod>2023-05-01T19:08:23+07:00</lastmod>
+  </url><url>
+    <loc>https://duynlk.github.io/posts/</loc>
+    <lastmod>2023-05-01T19:08:23+07:00</lastmod>
+  </url><url>
+    <loc>https://duynlk.github.io/tags/</loc>
+    <lastmod>2023-05-01T19:08:23+07:00</lastmod>
+  </url><url>
+    <loc>https://duynlk.github.io/tags/tu%E1%BB%95i-h%E1%BB%8Dc-tr%C3%B2/</loc>
+    <lastmod>2023-05-01T19:08:23+07:00</lastmod>
+  </url><url>
     <loc>https://duynlk.github.io/tags/chi%E1%BA%BFn-tranh/</loc>
     <lastmod>2023-04-18T23:14:50+07:00</lastmod>
   </url><url>
     <loc>https://duynlk.github.io/tags/d%E1%BB%8Bch-th%C6%A1/</loc>
     <lastmod>2023-04-18T23:14:50+07:00</lastmod>
   </url><url>
-    <loc>https://duynlk.github.io/</loc>
-    <lastmod>2023-04-18T23:14:50+07:00</lastmod>
-  </url><url>
     <loc>https://duynlk.github.io/posts/mua-vang/</loc>
-    <lastmod>2023-04-18T23:14:50+07:00</lastmod>
-  </url><url>
-    <loc>https://duynlk.github.io/posts/</loc>
-    <lastmod>2023-04-18T23:14:50+07:00</lastmod>
-  </url><url>
-    <loc>https://duynlk.github.io/tags/</loc>
     <lastmod>2023-04-18T23:14:50+07:00</lastmod>
   </url><url>
     <loc>https://duynlk.github.io/tags/ada-lim%C3%B3n/</loc>
@@ -162,9 +168,6 @@
     <lastmod>2022-11-11T21:07:34+07:00</lastmod>
   </url><url>
     <loc>https://duynlk.github.io/posts/loi-thay/</loc>
-    <lastmod>2021-11-24T20:55:46+07:00</lastmod>
-  </url><url>
-    <loc>https://duynlk.github.io/tags/tu%E1%BB%95i-h%E1%BB%8Dc-tr%C3%B2/</loc>
     <lastmod>2021-11-24T20:55:46+07:00</lastmod>
   </url><url>
     <loc>https://duynlk.github.io/posts/doi-thay/</loc>
