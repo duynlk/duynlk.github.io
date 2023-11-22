@@ -28,34 +28,6 @@
         }
 
     </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --hljs-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
-
-            .list {
-                background: var(--theme);
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
-        }
-
-    </style>
 </noscript><meta property="og:title" content="Mục Lục" />
 <meta property="og:description" content="Bài thơ về màu xanh (Bài dự thi) Bệnh nghĩ nhiều Biệt (Bài dự thi) Cafe mùa đông Cảm ơn em Chẳng qua là đơn phương Cho tôi về (Bài dự thi) Có vay có trả Con nhớ cha (I miss you daddy) (Dịch thơ) Để buồn lại tôi Điệp khúc ru em Điều mà em chưa biết trước đây (What I didn&rsquo;t know before) (Dịch thơ) Đổi thay Haiku Việt - Nhật (Bài dự thi) Hạnh phúc muôn màu Hành trình dưới mưa (Rain travel) (Dịch thơ) Hãy yêu mình trước tiên Không đề cho Tháng Tư Lời Thầy Lời xin lỗi (gửi Nàng thơ) | Apology (to the Muse) (Dịch thơ) Mẹ là mùa xuân (Bài dự thi) Mẹ ta trả nhớ về không (Mama recalls nothing) (Dịch nhạc) Một ngày mất điện Mưa vàng (Yellow rain) (Dịch thơ) Ngoài kia mùa xuân tới Ngôi nhà cũ Người giữa người với nhau (II) (Bài dự thi) Người giữa người với nhau Người lớn cô đơn Nhớ quê Những nấm mồ của chúng ta Những ngày cuối năm Nỗi buồn Covid Nội Phượng (II) Phượng Poetry for FSoft&rsquo;s friend Poetry for Liv." />
 <meta property="og:type" content="article" />
@@ -116,10 +88,6 @@
 <body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
