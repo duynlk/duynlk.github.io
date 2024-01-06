@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tuổi học trò on DuyKa&#39;s Blog</title>
     <link>https://duynlk.github.io/tags/tu%E1%BB%95i-h%E1%BB%8Dc-tr%C3%B2/</link>
     <description>Recent content in tuổi học trò on DuyKa&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2020 - 2023 DuyKa&#39;s Blog  
+    <copyright>© 2020 - 2024 DuyKa&#39;s Blog  
 →
 </copyright>
-    <lastBuildDate>Sat, 10 Jun 2023 19:05:50 +0700</lastBuildDate><atom:link href="https://duynlk.github.io/tags/tu%E1%BB%95i-h%E1%BB%8Dc-tr%C3%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jun 2023 19:05:50 +0700</lastBuildDate>
+    <atom:link href="https://duynlk.github.io/tags/tu%E1%BB%95i-h%E1%BB%8Dc-tr%C3%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phượng (II)</title>
       <link>https://duynlk.github.io/posts/phuong-2/</link>
       <pubDate>Sat, 10 Jun 2023 19:05:50 +0700</pubDate>
-      
       <guid>https://duynlk.github.io/posts/phuong-2/</guid>
       <description>Ta không thể về đón mùa hạ cùng nhau
 chú bảo vệ già vẫn còn ngồi ở đó
@@ -25,12 +25,10 @@ thành phố anh đi qua mấy mùa mưa nắng
 chiếc xe chở anh bắt đầu rời thị trấn
 có tiếng ve khàn .. và cánh phượng bay bay</description>
     </item>
-    
     <item>
       <title>Phượng</title>
       <link>https://duynlk.github.io/posts/phuong/</link>
       <pubDate>Mon, 01 May 2023 19:08:23 +0700</pubDate>
-      
       <guid>https://duynlk.github.io/posts/phuong/</guid>
       <description>Tôi trở về đây, không có em
 ghế xưa, bàn cũ, góc tường quen
@@ -43,12 +41,10 @@ viết vội lên trời để gió bay
 Tôi biết thời gian đã giấu tôi
 ngày em trở lại với mây trời</description>
     </item>
-    
     <item>
       <title>Lời Thầy</title>
       <link>https://duynlk.github.io/posts/loi-thay/</link>
       <pubDate>Wed, 24 Nov 2021 20:55:46 +0700</pubDate>
-      
       <guid>https://duynlk.github.io/posts/loi-thay/</guid>
       <description>Kỷ niệm Ngày Nhà giáo Việt Nam 2021.
 * * *
@@ -62,12 +58,10 @@ ai đi đắp lũy xây thành
 xin còn ghi mãi trong tâm lời Thầy ..
 Cần Thơ, 2021.</description>
     </item>
-    
     <item>
       <title>Đổi thay</title>
       <link>https://duynlk.github.io/posts/doi-thay/</link>
       <pubDate>Tue, 02 Nov 2021 15:08:06 +0700</pubDate>
-      
       <guid>https://duynlk.github.io/posts/doi-thay/</guid>
       <description>Không còn bảng đen
 không còn ghế đá
@@ -88,6 +82,5 @@ cho ta muộn phiền
 Đứa vào công chức
 đứa làm công nhân</description>
     </item>
-    
   </channel>
 </rss>

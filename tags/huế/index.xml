@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Huế on DuyKa&#39;s Blog</title>
     <link>https://duynlk.github.io/tags/hu%E1%BA%BF/</link>
     <description>Recent content in Huế on DuyKa&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2020 - 2023 DuyKa&#39;s Blog  
+    <copyright>© 2020 - 2024 DuyKa&#39;s Blog  
 →
 </copyright>
-    <lastBuildDate>Sun, 26 Mar 2023 00:37:00 +0700</lastBuildDate><atom:link href="https://duynlk.github.io/tags/hu%E1%BA%BF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 00:37:00 +0700</lastBuildDate>
+    <atom:link href="https://duynlk.github.io/tags/hu%E1%BA%BF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tôi sẽ về, Huế ơi!</title>
       <link>https://duynlk.github.io/posts/toi-se-ve-hue-oi/</link>
       <pubDate>Sun, 26 Mar 2023 00:37:00 +0700</pubDate>
-      
       <guid>https://duynlk.github.io/posts/toi-se-ve-hue-oi/</guid>
       <description>Bài tham dự cuộc thi &amp;ldquo;Thơ Huế 2023&amp;rdquo; do &amp;ldquo;Tạp chí Sông Hương&amp;rdquo; tổ chức.
 * * *
@@ -30,6 +30,5 @@ Anh có qua Phước Vĩnh
 ghé nhà mạ tôi chơi
 mạ tôi chằm nón lá</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>William Stanley Merwin on DuyKa&#39;s Blog</title>
     <link>https://duynlk.github.io/tags/william-stanley-merwin/</link>
     <description>Recent content in William Stanley Merwin on DuyKa&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2020 - 2023 DuyKa&#39;s Blog  
+    <copyright>© 2020 - 2024 DuyKa&#39;s Blog  
 →
 </copyright>
-    <lastBuildDate>Sun, 13 Aug 2023 20:59:40 +0700</lastBuildDate><atom:link href="https://duynlk.github.io/tags/william-stanley-merwin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Aug 2023 20:59:40 +0700</lastBuildDate>
+    <atom:link href="https://duynlk.github.io/tags/william-stanley-merwin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hành trình dưới mưa (Rain travel)</title>
       <link>https://duynlk.github.io/posts/hanh-trinh-duoi-mua/</link>
       <pubDate>Sun, 13 Aug 2023 20:59:40 +0700</pubDate>
-      
       <guid>https://duynlk.github.io/posts/hanh-trinh-duoi-mua/</guid>
       <description>Rain travel
 Tác giả: William Stanley Merwin (Mỹ)
@@ -29,6 +29,5 @@ hushed in their dream that bears
 us up asleep and awake then I hear
 drops falling one by one into</description>
     </item>
-    
   </channel>
 </rss>
