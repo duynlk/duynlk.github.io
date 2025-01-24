@@ -9763,3 +9763,12 @@ a.text-dark:hover, a.text-dark:focus {
     border-right: none !important;
   }
 }
+
+#btn-sound {
+  width: 30px;
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  cursor: pointer;
+  z-index: 999;
+}

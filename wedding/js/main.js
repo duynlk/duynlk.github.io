@@ -27,25 +27,6 @@
         }
     });
 
-
-    // Modal Video
-    $(document).ready(function () {
-        var $videoSrc;
-        $('.btn-play').click(function () {
-            $videoSrc = $(this).data("src");
-        });
-        console.log($videoSrc);
-
-        $('#videoModal').on('shown.bs.modal', function (e) {
-            $("#video").attr('src', $videoSrc + "?autoplay=1&amp;modestbranding=1&amp;showinfo=0");
-        })
-
-        $('#videoModal').on('hide.bs.modal', function (e) {
-            $("#video").attr('src', $videoSrc);
-        })
-    });
-
-
     // Scroll to Bottom
     $(window).scroll(function () {
         if ($(this).scrollTop() > 100) {
@@ -112,6 +93,16 @@
             }
         }
     });
-    
-})(jQuery);
 
+    // click audio
+    $("#btn-sound").click(function () {
+        var src = $(this).prop("src");
+        if(src.includes("sound.png")){
+            $('#player').trigger("pause");
+            $(this).prop("src","img/mute.png");
+        }else{
+            $('#player').trigger("play");
+            $(this).prop("src","img/sound.png");
+        }
+    });
+})(jQuery);
