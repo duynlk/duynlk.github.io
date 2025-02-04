@@ -110,8 +110,10 @@
     function changeImageSrc() {
         if (window.matchMedia("(max-width: 1200px)").matches) {
             $("img#carousel-img").attr("src", "img/event-1.jpg");
+            $("img#carousel-img").css("object-position", "");
         } else {
             $("img#carousel-img").attr("src", "img/carousel-1.jpg");
+            $("img#carousel-img").css("object-position", "0 8%");
         }
     }
 
