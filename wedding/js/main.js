@@ -106,7 +106,7 @@
         }
     });
 
-    // Hàm thay đổi src của hình ảnh
+    // change src image
     function changeImageSrc() {
         if (window.matchMedia("(max-width: 1200px)").matches) {
             $("img#carousel-img").attr("src", "img/event-1.jpg");
@@ -117,7 +117,7 @@
         }
     }
 
-    // Gọi hàm khi trang được tải và khi kích thước màn hình thay đổi
+    // call change src image
     changeImageSrc();
     $(window).resize(function() {
         changeImageSrc();
