@@ -119,7 +119,7 @@
             isSubmit = false;
         }
 
-        if (isSubmit)
+        if (isSubmit){
             $.ajax({
                 url: "https://formsubmit.co/ajax/nguyenlukhanhduy@gmail.com",
                 method: "POST",
@@ -132,7 +132,7 @@
                 // success: (data) => console.log(data),
                 // error: (err) => console.log(err)
             });
-
-        $('#rsvpModal').modal('hide');
+            $('#rsvpModal').modal('hide');
+        }
     });
 })(jQuery);
