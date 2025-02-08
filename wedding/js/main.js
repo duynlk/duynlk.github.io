@@ -91,25 +91,48 @@
         changeImageSrc();
     });
 
+    $('#commitRsvp, #nameRsvp, #msgRsvp').on('change', function(){
+        $(this).addClass('border-0');
+    });
+
     $('#submitRsvp').on('click', function(){
         var nameRsvp = $('#nameRsvp').val();
-        var commitRsvp = 'Sẽ đến';
-        if ($('#nameRsvp').val() == '0'){
-            commitRsvp = 'Không đến được';
-        }
+        var commitRsvp = $('#commitRsvp').val();
         var msgRsvp = $('#msgRsvp').val();
+        var isSubmit = true;
 
-        $.ajax({
-            url: "https://formsubmit.co/ajax/nguyenlukhanhduy@gmail.com",
-            method: "POST",
-            data: {
-                name: nameRsvp + ' - ' + commitRsvp,
-                message: msgRsvp
-            },
-            dataType: "json",
-            accepts: 'application/json',
-            success: (data) => console.log(data),
-            error: (err) => console.log(err)
-        });
+        if (commitRsvp == '#'){
+            $('#commitRsvp').removeClass('border-0')
+            $('#commitRsvp').css('border', '1px solid #E47A2E');
+            isSubmit = false;
+        }
+
+        if (nameRsvp == ''){
+            $('#nameRsvp').removeClass('border-0')
+            $('#nameRsvp').css('border', '1px solid #E47A2E');
+            isSubmit = false;
+        }
+
+        if (msgRsvp == ''){
+            $('#msgRsvp').removeClass('border-0')
+            $('#msgRsvp').css('border', '1px solid #E47A2E');
+            isSubmit = false;
+        }
+
+        if (isSubmit)
+            $.ajax({
+                url: "https://formsubmit.co/ajax/nguyenlukhanhduy@gmail.com",
+                method: "POST",
+                data: {
+                    name: nameRsvp + ' - ' + commitRsvp,
+                    message: msgRsvp
+                },
+                dataType: "json",
+                accepts: 'application/json',
+                // success: (data) => console.log(data),
+                // error: (err) => console.log(err)
+            });
+
+        $('#rsvpModal').modal('hide');
     });
 })(jQuery);

@@ -275,8 +275,8 @@
 
 
     <!-- RSVP Start -->
-    <div class="modal fade" id="rsvpModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document">
+    <div class="modal fade" id="rsvpModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-body">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -294,21 +294,21 @@
                                     <div class="text-center">
                                         <div class="form-row">
                                             <div class="form-group col-sm-12">
-                                                <input id="nameRsvp" type="text" class="form-control bg-secondary border-0 py-4 px-3" placeholder="Tên của bạn"/>
-                                            </div>
-                                            <div class="form-group col-sm-12">
                                                 <select id="commitRsvp" class="form-control bg-secondary border-0" style="height: 52px;">
-                                                    <option value="#">Bạn có thể tham gia không?</option>
+                                                    <option value="#">Bạn sẽ đến chung vui với chúng tôi chứ?</option>
                                                     <option value="1">Mình sẽ đến</option>
                                                     <option value="0">Thật tiếc, mình không đến được</option>
                                                 </select>
                                             </div>
+                                            <div class="form-group col-sm-12">
+                                                <input id="nameRsvp" type="text" class="form-control bg-secondary border-0 py-4 px-3" placeholder="Tên của bạn"/>
+                                            </div>
                                         </div>
                                         <div class="form-group">
-                                            <textarea id="msgRsvp" class="form-control bg-secondary border-0 py-2 px-3" rows="5" placeholder="Lời nhắn"></textarea>
+                                            <textarea id="msgRsvp" class="form-control bg-secondary border-0 py-2 px-3" rows="5" placeholder="Gửi lời chúc phúc đến cô dâu chú rể"></textarea>
                                         </div>
                                         <div>
-                                            <button class="btn btn-primary font-weight-bold py-3 px-5" id="submitRsvp">Gửi</button>
+                                            <button class="btn btn-primary font-weight-bold py-3 px-5" id="submitRsvp" type="submit">Gửi</button>
                                         </div>
                                     </div>
                                 </div>
