@@ -83,6 +83,16 @@
             $("img#carousel-img").attr("src", "img/carousel-1.jpg");
             $("img#carousel-img").css("object-position", "0 8%");
         }
+
+        if (window.matchMedia("(max-width: 480px)").matches) {
+            $("#gallery-mobile").css("display","block");
+            $("#gallery-web").css("display","none");
+            $("#gallery-content").css("margin-bottom","0");
+        } else {
+            $("#gallery-web").css("display","block");
+            $("#gallery-mobile").css("display","none");
+            $("#gallery-content").css("margin-bottom","120px");
+        }
     }
 
     // call change src image
