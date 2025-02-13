@@ -87,7 +87,7 @@
         if (window.matchMedia("(max-width: 480px)").matches) {
             $("#gallery-mobile").css("display","block");
             $("#gallery-web").css("display","none");
-            $("#gallery-content").css("margin-bottom","0");
+            $("#gallery-content").css("margin-bottom","25px");
         } else {
             $("#gallery-web").css("display","block");
             $("#gallery-mobile").css("display","none");
@@ -139,10 +139,14 @@
                 },
                 dataType: "json",
                 accepts: 'application/json',
+                async: true
                 // success: (data) => console.log(data),
                 // error: (err) => console.log(err)
             });
-            $('#rsvpModal').modal('hide');
+            $('#submit-thank').show(500);
+            setTimeout(function(){
+                $('#rsvpModal').modal('hide');
+            }, 2000);
         }
     });
 })(jQuery);
