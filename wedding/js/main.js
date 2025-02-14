@@ -130,11 +130,16 @@
         }
 
         if (isSubmit){
+            var commitText = 'Tất nhiên rồi!';
+            if(commitRsvp == '0'){
+                commitText = 'Thật tiếc, mình không đến được';
+            }
+
             $.ajax({
                 url: "https://formsubmit.co/ajax/nguyenlukhanhduy@gmail.com",
                 method: "POST",
                 data: {
-                    name: nameRsvp + ' - ' + commitRsvp,
+                    name: nameRsvp + ' - ' + commitText,
                     message: msgRsvp
                 },
                 dataType: "json",
